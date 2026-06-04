@@ -8,10 +8,20 @@ NWhite Systems is my recruiter-facing portfolio index for selected full-stack, A
 
 - **Portfolio website:** https://nwhite.systems
 - **Recruiter review guide:** [docs/recruiter-review-guide.md](docs/recruiter-review-guide.md)
+- **One-page recruiter PDF:** [Whitemore Ngwira - Selected Systems Portfolio](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf)
 - **Architecture notes:** [docs/architecture-notes.md](docs/architecture-notes.md)
 - **Live portfolio index:** [docs/live-portfolio-index.md](docs/live-portfolio-index.md)
+- **Recruiter outreach kit:** [docs/recruiter-outreach-kit.md](docs/recruiter-outreach-kit.md)
 - **GitHub profile:** https://github.com/whitemorengwira
 - **Professional contact:** [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request)
+
+## Review In 90 Seconds
+
+1. Open the [portfolio website](https://nwhite.systems) for positioning, selected work, and contact path.
+2. Watch the [portfolio review walkthrough](docs/assets/demo/portfolio-review-path.mp4) for a quick public evidence route.
+3. Inspect [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) for source-level Next.js/TypeScript proof.
+4. Use the [recruiter PDF](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) when forwarding my profile internally.
+5. [Request a walkthrough](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) for deeper review where confidentiality allows.
 
 ## What This Repository Shows
 
@@ -29,6 +39,15 @@ Production code, credentials, private dashboards, commercial records, and stakeh
 | Creative technology | Interactive strategy sites, multimedia systems, branded digital experiences, and stakeholder presentations |
 | Regulated-sector awareness | Insurance, mining, education, investment, governance, confidentiality, and controlled-access systems |
 
+## Role-Specific Review Paths
+
+| Hiring lens | Best first evidence |
+|---|---|
+| Systems architect | [Architecture notes](docs/architecture-notes.md), [N.White Systems case study](docs/case-studies/nwhite-systems.md), and the portfolio review walkthrough |
+| Full-stack/product engineer | [SAFA ProMax source](https://github.com/whitemorengwira/safa-promax), build/audit proof, and the SAFA demo walkthrough |
+| AI workflow builder | [EarCodeX](docs/case-studies/earcodex.md), [Cineterns](docs/case-studies/cineterns.md), and controlled workflow case studies |
+| Digital transformation / stakeholder systems | [Socinga Africa](docs/case-studies/socinga-africa-enterprise.md), [SAM Dossier](docs/case-studies/sam-dossier.md), and mining/investor workflow examples |
+
 ## Visual Gallery
 
 _Generated portfolio visuals below are illustrations for public review; they are not confidential product screenshots._
@@ -41,6 +60,16 @@ _Generated portfolio visuals below are illustrations for public review; they are
 | [Oasis College Smart Website Prototype](docs/case-studies/oasis-college-promax.md) | ![Generated portfolio visual for Oasis College](docs/assets/case-studies/oasis-college-promax-hero.png) |
 | [SAM Dossier](docs/case-studies/sam-dossier.md) | ![Generated portfolio visual for SAM Dossier](docs/assets/case-studies/sam-dossier-hero.png) |
 | [Socinga Africa Mining Hub](docs/case-studies/socinga-mining-hub.md) | ![Generated portfolio visual for Socinga Africa Mining Hub](docs/assets/case-studies/socinga-mining-hub-hero.png) |
+
+## Demo Walkthroughs
+
+_Generated public walkthrough media below uses public screenshots and generated portfolio visuals only. It does not show private dashboards, credentials, records, or confidential workflows._
+
+| Walkthrough | Preview |
+|---|---|
+| [Portfolio review path](docs/assets/demo/portfolio-review-path.mp4) | [![Generated public demo walkthrough poster for the portfolio review path](docs/assets/demo/portfolio-review-path-poster.png)](docs/assets/demo/portfolio-review-path.mp4) |
+| [SAFA ProMax public source review](docs/assets/demo/safa-promax-demo.mp4) | [![Generated public demo walkthrough poster for SAFA ProMax](docs/assets/demo/safa-promax-demo-poster.png)](docs/assets/demo/safa-promax-demo.mp4) |
+| [EarCodeX regulated workflow review](docs/assets/demo/earcodex-demo.mp4) | [![Generated public demo walkthrough poster for EarCodeX](docs/assets/demo/earcodex-demo-poster.png)](docs/assets/demo/earcodex-demo.mp4) |
 
 ## Selected Work
 
@@ -56,9 +85,18 @@ _Generated portfolio visuals below are illustrations for public review; they are
 - [SAM Dossier](docs/case-studies/sam-dossier.md)
 - [SAFA ProMax](docs/case-studies/safa-promax.md)
 
+## Public Verification Signals
+
+_Date-stamped for recruiter context: verified on June 4, 2026._
+
+- Six public showcase repositories are curated for recruiter review with clean default branches.
+- SAFA ProMax passed `npm run lint -- --max-warnings=0`, `npm run typecheck`, `npm run build`, and `npm audit --omit=dev` before this conversion layer.
+- The SAFA ProMax PostCSS/Next security alert was handled through a safe update/override path.
+- Public case studies label generated visuals clearly and avoid credentials, private dashboards, internal workflow notes, student records, investor records, and client-sensitive data.
+
 ## Request Walkthrough
 
-Recruiters and hiring teams can start with the live portfolio, then use the case studies to review role, architecture, delivery signals, and confidentiality boundaries. For deeper review where permissions allow, [request a portfolio walkthrough](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request).
+Recruiters and hiring teams can start with the live portfolio, then use the case studies to review role, architecture, delivery signals, and confidentiality boundaries. For deeper review where permissions allow, [request a portfolio walkthrough](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request), or forward the [one-page recruiter PDF](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf).
 
 ## Confidentiality
 
