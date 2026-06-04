@@ -9,7 +9,7 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 | 2 minutes | Open [nwhite.systems](https://nwhite.systems) | Fastest overview of positioning, services, and contact path |
 | 5 minutes | Read the [NWhite Systems README](../README.md) | Shows selected work, portfolio signals, and visual context |
 | 10 minutes | Open the [live portfolio index](live-portfolio-index.md) | Lets you choose role-relevant projects quickly |
-| Deeper review | Inspect [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) | Public source repository with build/audit workflow and curated documentation |
+| Deeper review | Inspect [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) | Public source repository with local build/audit verification and curated documentation |
 
 ## Role-Fit Map
 
@@ -33,8 +33,8 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 
 ## Public Verification Signals
 
-- The portfolio repository runs a GitHub Actions hygiene check for case-study structure and internal-copy leakage.
-- The SAFA ProMax source repository runs a public build/audit workflow.
+- The portfolio repository passed local hygiene checks for case-study structure and internal-copy leakage before publication.
+- The SAFA ProMax source repository passed local `npm audit --omit=dev` and `npm run build` verification before publication.
 - The SAFA ProMax dependency alert for PostCSS was fixed with a safe package override path.
 - Public case studies avoid credentials, private dashboards, internal workflow notes, student records, investor records, and client-sensitive data.
 
