@@ -8,6 +8,12 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
+## Public Demo Evidence
+
+![Public live demo screenshot for Socinga Africa Mining Hub](../assets/live-screenshots/socinga-mining-hub-live.png)
+
+_Public live artifact screenshot captured on June 4, 2026._
+
 ## Overview
 
 The Socinga Africa Mining Hub is a public enterprise route for regional mining assets, marketplace-style positioning, investor communication, listings concepts, and sector-specific stakeholder navigation.

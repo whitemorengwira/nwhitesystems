@@ -8,6 +8,12 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
+## Public Demo Evidence
+
+![Public live demo screenshot for SA Film Interns / Cineterns](../assets/live-screenshots/cineterns-live.png)
+
+_Public live artifact screenshot captured on June 4, 2026._
+
 ## Overview
 
 SA Film Interns / Cineterns is a prototype talent-placement platform for connecting film interns, productions, studios, broadcasters, and post-production partners.

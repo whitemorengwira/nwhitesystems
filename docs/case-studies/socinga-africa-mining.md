@@ -8,6 +8,12 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
+## Public Demo Evidence
+
+![Public live demo screenshot for Socinga Africa Mining Investment Mandate](../assets/live-screenshots/socinga-africa-mining-live.png)
+
+_Public live artifact screenshot captured on June 4, 2026._
+
 ## Overview
 
 Socinga Africa Mining Investment Mandate is an investor-facing presentation experience for mining assets, mandate positioning, stakeholder communication, and institutional review.

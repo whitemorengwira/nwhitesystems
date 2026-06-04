@@ -8,6 +8,12 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
+## Public Demo Evidence
+
+![Public live demo screenshot for Complete Grade Suite](../assets/live-screenshots/complete-grade-suite-live.png)
+
+_Public live artifact screenshot captured on June 4, 2026._
+
 ## Overview
 
 Complete Grade Suite is a compact e-commerce prototype for presenting a professional colour grading and live production equipment package.

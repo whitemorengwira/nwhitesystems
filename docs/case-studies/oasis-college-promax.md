@@ -8,6 +8,12 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
+## Public Demo Evidence
+
+![Public live demo screenshot for Oasis College Smart Website Prototype](../assets/live-screenshots/oasis-college-promax-live.png)
+
+_Public live artifact screenshot captured on June 4, 2026._
+
 ## Overview
 
 Oasis College Smart Website Prototype is a responsive education-technology concept covering admissions, campus life, news, school tools, and portal-style user journeys.

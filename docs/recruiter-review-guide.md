@@ -9,6 +9,7 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 | 2 minutes | Open [nwhite.systems](https://nwhite.systems) | Fastest overview of positioning, services, and contact path |
 | 5 minutes | Read the [NWhite Systems README](../README.md) | Shows selected work, portfolio signals, and visual context |
 | 10 minutes | Open the [live portfolio index](live-portfolio-index.md) | Lets you choose role-relevant projects quickly |
+| Technical review | Read the [architecture notes](architecture-notes.md) | Shows system thinking, delivery model, and confidentiality judgment |
 | Deeper review | Inspect [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) | Public source repository with local build/audit verification and curated documentation |
 
 ## Role-Fit Map
@@ -29,6 +30,7 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 - Read `My Role`, `What This Demonstrates`, and `Technical Proof`.
 - Check that each case study states its confidentiality boundary clearly.
 - Use the generated visuals as portfolio context, not as confidential product screenshots.
+- Use the public demo screenshots as evidence of live public surfaces where available.
 - For source-level review, start with [SAFA ProMax](https://github.com/whitemorengwira/safa-promax).
 
 ## Public Verification Signals

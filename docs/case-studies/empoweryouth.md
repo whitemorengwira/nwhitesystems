@@ -8,6 +8,12 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
+## Public Demo Evidence
+
+![Public live demo screenshot for EmpowaYouth](../assets/live-screenshots/empoweryouth-live.png)
+
+_Public live artifact screenshot captured on June 4, 2026._
+
 ## Overview
 
 EmpowaYouth is a presentation prototype focused on youth development, social-impact storytelling, and stakeholder communication.

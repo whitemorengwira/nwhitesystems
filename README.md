@@ -8,6 +8,7 @@ NWhite Systems is my recruiter-facing portfolio index for selected full-stack, A
 
 - **Portfolio website:** https://nwhite.systems
 - **Recruiter review guide:** [docs/recruiter-review-guide.md](docs/recruiter-review-guide.md)
+- **Architecture notes:** [docs/architecture-notes.md](docs/architecture-notes.md)
 - **Live portfolio index:** [docs/live-portfolio-index.md](docs/live-portfolio-index.md)
 - **GitHub profile:** https://github.com/whitemorengwira
 - **Professional contact:** [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request)

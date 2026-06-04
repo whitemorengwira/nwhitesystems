@@ -8,6 +8,12 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
+## Public Demo Evidence
+
+![Public live demo screenshot for Socinga Africa Enterprise](../assets/live-screenshots/socinga-africa-enterprise-live.png)
+
+_Public live artifact screenshot captured on June 4, 2026._
+
 ## Overview
 
 Socinga Africa is a public enterprise website spanning insurance, creative studios, mining, foundation, news, and EarCodeX positioning.

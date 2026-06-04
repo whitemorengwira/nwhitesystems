@@ -8,6 +8,12 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
+## Public Demo Evidence
+
+![Public live demo screenshot for N.White Systems](../assets/live-screenshots/nwhite-systems-live.png)
+
+_Public live artifact screenshot captured on June 4, 2026._
+
 ## Overview
 
 N.White Systems is my primary professional website for systems architecture, AI workflow design, digital strategy, SEO, portfolio positioning, and advisory work.

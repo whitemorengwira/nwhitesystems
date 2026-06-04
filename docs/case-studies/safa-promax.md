@@ -8,6 +8,12 @@
 
 _Generated portfolio visual; not a confidential product screenshot._
 
+## Public Demo Evidence
+
+![Public live demo screenshot for SAFA ProMax](../assets/live-screenshots/safa-promax-live.png)
+
+_Public live artifact screenshot captured on June 4, 2026._
+
 ## Overview
 
 SAFA ProMax is a board-facing creative technology and stakeholder strategy platform for SA Film Academy, combining presentation flow, CMS/admin concepts, responsive UX, and evidence-led reporting logic.
