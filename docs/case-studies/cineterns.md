@@ -4,6 +4,10 @@
 **Portfolio role:** Creative technology, education talent platform, placement marketplace  
 **Source posture:** Public prototype with implementation detail summarized for portfolio review.
 
+![Generated portfolio visual for SA Film Interns / Cineterns](../assets/case-studies/cineterns-hero.png)
+
+_Generated portfolio visual; not a confidential product screenshot._
+
 ## Overview
 
 SA Film Interns / Cineterns is a prototype talent-placement platform for connecting film interns, productions, studios, broadcasters, and post-production partners.
@@ -18,6 +22,12 @@ I shaped the public product concept, information architecture, stakeholder journ
 - Ability to translate stakeholder needs into a practical digital experience.
 - Public-facing product framing for a sector where trust, verification, and presentation quality matter.
 
+## Technical Proof
+
+- **Stack and delivery signals:** Web prototype delivery, marketplace information architecture, stakeholder journey mapping, and responsive product presentation.
+- **Review checklist:** Check the public flows, profile/placement logic, partner positioning, and how the experience separates public discovery from verification concepts.
+- **Confidentiality boundary:** Public review should focus on product structure and presentation. Real intern records, placement decisions, partner data, admin workflows, and credentials stay protected.
+
 ## Review Path
 
 1. Open the live artifact.
@@ -27,3 +37,7 @@ I shaped the public product concept, information architecture, stakeholder journ
 ## Confidentiality
 
 The public artifact is suitable for portfolio review. Private student, intern, partner, admin, and operational data should remain outside public repositories.
+
+## Request Walkthrough
+
+For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Cineterns)

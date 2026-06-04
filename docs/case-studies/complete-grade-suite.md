@@ -4,6 +4,10 @@
 **Portfolio role:** E-commerce, multimedia equipment, production and studio asset presentation  
 **Source posture:** Public mini-commerce prototype with implementation detail summarized for portfolio review.
 
+![Generated portfolio visual for Complete Grade Suite](../assets/case-studies/complete-grade-suite-hero.png)
+
+_Generated portfolio visual; not a confidential product screenshot._
+
 ## Overview
 
 Complete Grade Suite is a compact e-commerce prototype for presenting a professional colour grading and live production equipment package.
@@ -18,6 +22,12 @@ I structured the product presentation, comparison logic, and sales-oriented user
 - Ability to package technical multimedia assets into a buyer-friendly digital experience.
 - Practical delivery of a focused public prototype with clear commercial intent.
 
+## Technical Proof
+
+- **Stack and delivery signals:** Public mini-commerce prototype, product comparison structure, conversion-oriented page flow, and multimedia asset positioning.
+- **Review checklist:** Review the product hierarchy, comparison logic, buyer journey, and clarity of the call-to-action path.
+- **Confidentiality boundary:** Public review covers the commerce experience and presentation logic. Pricing strategy, ownership details, transaction records, and implementation internals stay controlled where required.
+
 ## Review Path
 
 1. Open the live artifact.
@@ -27,3 +37,7 @@ I structured the product presentation, comparison logic, and sales-oriented user
 ## Confidentiality
 
 The public artifact is suitable for portfolio review. Pricing, asset ownership, transaction details, and implementation internals should be controlled separately where required.
+
+## Request Walkthrough
+
+For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Complete%20Grade%20Suite)
