@@ -1,25 +1,29 @@
 # EarCodeX SaaS Prototype
 
-**Live URL:** [https://earcodex.vercel.app/](https://earcodex.vercel.app/)  
-**Source repository:** `whitemorengwira/-earcodex`  
-**Current source status:** Public SaaS prototype; private source repository
+**Live artifact:** [https://earcodex.vercel.app/](https://earcodex.vercel.app/)  
+**Portfolio role:** Enterprise assurance, reconciliation, insurance technology SaaS  
+**Source posture:** Public product surface with sensitive product internals kept controlled.
 
-## Portfolio Positioning
+## Overview
 
-Enterprise assurance, reconciliation, insurance technology SaaS
+EarCodeX is a SaaS prototype positioned around enterprise assurance, broker and administrator workflows, reconciliation, verification, and audit-aware operations.
 
-## What This Proves
+## My Role
 
-Enterprise assurance and reconciliation platform prototype for brokers, administrators, insurers, verified data, faster processing, and audit-aware operations.
+I translated regulated workflow complexity into product architecture, public positioning, interface structure, and a reviewable digital prototype.
 
-## Safety Position
+## What This Demonstrates
 
-Keep source private. Public marketing page is useful, but platform logic, admin areas, and reconciliation workflows should remain confidential.
+- Product thinking for assurance and reconciliation workflows.
+- Ability to frame operational complexity in a clear SaaS-style experience.
+- Awareness of auditability, verification, and controlled access in regulated environments.
 
-## How To Talk About It In Applications
+## Review Path
 
-Use this as evidence of practical delivery, systems thinking, stakeholder communication, and public-facing digital execution. Do not imply that confidential production source code is open-source. For sensitive platforms, point recruiters to this sanitized case study and offer deeper walkthroughs only where permission and confidentiality allow.
+1. Open the live artifact.
+2. Review the product narrative and public user experience.
+3. See the standalone case-study repository for broader context: [EarCodeX Case Study](https://github.com/whitemorengwira/earcodex-case-study).
 
-## Suggested CV / Cover Letter Label
+## Confidentiality
 
-`EarCodeX SaaS Prototype - Enterprise assurance, reconciliation, insurance technology SaaS`
+The public artifact demonstrates product direction without publishing credentials, admin areas, private workflow logic, client data, deployment configuration, or sensitive product internals.

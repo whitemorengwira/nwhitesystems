@@ -1,31 +1,28 @@
 # Live Portfolio Index
 
-This index maps public URLs linked to Whitemore Ngwira / NWhite Systems into recruiter-safe portfolio proof.
+This index gives reviewers a quick route through selected public work by Whitemore Ngwira / NWhite Systems.
 
-The operating rule is simple: public websites may be shown, but production source, sensitive dashboards, client data, investment logic, student data, and internal admin workflows stay private. Where full source is sensitive, this repository provides sanitized case-study documentation instead.
-
-| Case Study | Live URL | Source Safety | Best CV Signal |
+| Case Study | Live Artifact | Portfolio Signal | Source Posture |
 |---|---|---|---|
-| [Socinga Africa Enterprise Website](case-studies/socinga-africa-enterprise.md) | https://www.socinga.africa/ | Public enterprise website; private source repository | Enterprise digital platform, regulated-sector systems, cross-border operations |
-| [N.White Systems Personal Architecture Website](case-studies/nwhite-systems.md) | https://nwhite.systems/ | Public personal website; private source repository | Systems architecture marketing website and professional portfolio |
-| [SA Film Interns / Cineterns Prototype](case-studies/cineterns.md) | https://cineterns.vercel.app/ | Public prototype; private source repository | Creative technology, education/talent platform, placement marketplace |
-| [EmpowaYouth Presentation Prototype](case-studies/empoweryouth.md) | https://empoweryouth.vercel.app/ | Public presentation prototype; private source repository | Personal presentation, youth development, community-impact storytelling |
-| [Oasis College Smart Website Prototype](case-studies/oasis-college-promax.md) | https://oasis-college-promax.vercel.app/ | Public school prototype; private source repository | Education technology, smart school website, portal prototype |
-| [EarCodeX SaaS Prototype](case-studies/earcodex.md) | https://earcodex.vercel.app/ | Public SaaS prototype; private source repository | Enterprise assurance, reconciliation, insurance technology SaaS |
-| [Socinga Africa Mining Hub](case-studies/socinga-mining-hub.md) | https://www.socinga.africa/mining-hub | Public enterprise route; private source repository | Mining marketplace, stakeholder platform, investment-sector digital infrastructure |
-| [Socinga Africa Mining Investment Mandate](case-studies/socinga-africa-mining.md) | https://socinga-africa-mining.vercel.app/ | Public investment presentation; private source repository | Mining investment mandate, institutional stakeholder presentation |
-| [Complete Grade Suite Mini E-Commerce](case-studies/complete-grade-suite.md) | https://complete-grade-suite.vercel.app/ | Public mini e-commerce prototype; private source repository | E-commerce, multimedia equipment, production/studio asset sale |
-| [SAM Dossier](case-studies/sam-dossier.md) | https://sam-dossier.vercel.app/ | Login-gated app shell; private source; sanitized public case-study repo exists | Confidential mining investment dossier and stakeholder dashboard |
-| [SAFA ProMax](case-studies/safa-promax.md) | https://safa-promax.vercel.app/ | Login-gated app shell; public source repo hardened for portfolio review | Creative technology, marketing strategy, board-facing stakeholder presentation |
+| [Socinga Africa Enterprise Website](case-studies/socinga-africa-enterprise.md) | https://www.socinga.africa/ | Enterprise digital platform, regulated-sector content architecture, cross-border stakeholder communication | Public website; production implementation kept controlled |
+| [N.White Systems Personal Architecture Website](case-studies/nwhite-systems.md) | https://nwhite.systems/ | Personal portfolio, service positioning, SEO, and systems-architecture marketing | Public website; operational implementation kept controlled |
+| [SA Film Interns / Cineterns Prototype](case-studies/cineterns.md) | https://cineterns.vercel.app/ | Education and creative-industry talent platform thinking | Public prototype; implementation detail summarized safely |
+| [EmpowaYouth Presentation Prototype](case-studies/empoweryouth.md) | https://empoweryouth.vercel.app/ | Youth-development storytelling and stakeholder presentation | Public presentation; personal/partner material kept controlled |
+| [Oasis College Smart Website Prototype](case-studies/oasis-college-promax.md) | https://oasis-college-promax.vercel.app/ | Education technology, responsive public website, and portal concepts | Public prototype; student/admin data not published |
+| [EarCodeX SaaS Prototype](case-studies/earcodex.md) | https://earcodex.vercel.app/ | Enterprise assurance, reconciliation, audit-aware workflow design | Public product surface; sensitive product internals kept controlled |
+| [Socinga Africa Mining Hub](case-studies/socinga-mining-hub.md) | https://www.socinga.africa/mining-hub | Mining marketplace, investment-sector information architecture, stakeholder platform design | Public enterprise route; commercial implementation kept controlled |
+| [Socinga Africa Mining Investment Mandate](case-studies/socinga-africa-mining.md) | https://socinga-africa-mining.vercel.app/ | Institutional presentation, mining investment narrative, investor-facing UX | Public presentation; commercially sensitive materials kept controlled |
+| [Complete Grade Suite Mini E-Commerce](case-studies/complete-grade-suite.md) | https://complete-grade-suite.vercel.app/ | E-commerce, multimedia equipment positioning, product comparison | Public mini-commerce prototype; implementation detail summarized safely |
+| [SAM Dossier](case-studies/sam-dossier.md) | https://sam-dossier.vercel.app/ | Confidential dossier workflows, stakeholder dashboards, controlled-access platform thinking | Login-gated shell; sanitized public case study only |
+| [SAFA ProMax](case-studies/safa-promax.md) | https://safa-promax.vercel.app/ | Board-facing strategy platform, creative technology, protected presentation workflows | Public portfolio repo and live app prepared for review |
 
-## Recommended CV Placement
+## Recommended Review Path
 
-`GitHub: https://github.com/whitemorengwira/nwhitesystems`
+1. Start with the portfolio website: https://nwhite.systems
+2. Review the selected case studies in this repository.
+3. Open the live artifact linked from any case study that matches the role.
+4. Contact me at hello@nwhite.systems for deeper walkthroughs where confidentiality allows.
 
-`Portfolio: https://nwhite.systems`
+## Overall Narrative
 
-For confidential systems, write: `Selected sanitized case studies available via GitHub; production source remains private for client and data protection.`
-
-## Recruiter Narrative
-
-These projects collectively prove full-stack systems architecture, AI/workflow thinking, creative technology, enterprise websites, education/talent platforms, mining/investment stakeholder systems, SaaS prototypes, multimedia commerce, governance, and controlled-access digital platforms.
+Together, these projects show full-stack systems architecture, AI and workflow thinking, creative technology, enterprise websites, education and talent platforms, mining and investment stakeholder systems, SaaS prototyping, e-commerce, governance, and controlled-access digital platforms.

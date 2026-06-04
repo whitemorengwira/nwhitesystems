@@ -1,25 +1,29 @@
 # EmpowaYouth Presentation Prototype
 
-**Live URL:** [https://empoweryouth.vercel.app/](https://empoweryouth.vercel.app/)  
-**Source repository:** `whitemorengwira/empoweryouth`  
-**Current source status:** Public presentation prototype; private source repository
+**Live artifact:** [https://empoweryouth.vercel.app/](https://empoweryouth.vercel.app/)  
+**Portfolio role:** Youth-development storytelling, public presentation, community-impact communication  
+**Source posture:** Public presentation with personal and partner-specific materials kept controlled.
 
-## Portfolio Positioning
+## Overview
 
-Personal presentation, youth development, community-impact storytelling
+EmpowaYouth is a presentation prototype focused on youth development, social-impact storytelling, and stakeholder communication.
 
-## What This Proves
+## My Role
 
-Presentation prototype showing digital storytelling and stakeholder communication for youth development.
+I shaped the narrative structure, digital presentation flow, and public-facing experience so the initiative could be reviewed as more than a static slide deck.
 
-## Safety Position
+## What This Demonstrates
 
-Low visible technical risk from public scan, but source remains private because presentation materials can be personal or partner-specific.
+- Digital storytelling for community-impact initiatives.
+- Ability to convert a presentation concept into an interactive public artifact.
+- Stakeholder communication across social, educational, and development themes.
 
-## How To Talk About It In Applications
+## Review Path
 
-Use this as evidence of practical delivery, systems thinking, stakeholder communication, and public-facing digital execution. Do not imply that confidential production source code is open-source. For sensitive platforms, point recruiters to this sanitized case study and offer deeper walkthroughs only where permission and confidentiality allow.
+1. Open the live artifact.
+2. Review the story flow, structure, and presentation design.
+3. Use this case study to understand the communication and delivery approach behind the prototype.
 
-## Suggested CV / Cover Letter Label
+## Confidentiality
 
-`EmpowaYouth Presentation Prototype - Personal presentation, youth development, community-impact storytelling`
+The public artifact is suitable for portfolio review. Personal, partner-specific, or non-public programme materials should remain controlled outside public repositories.

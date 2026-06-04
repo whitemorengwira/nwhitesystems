@@ -2,33 +2,32 @@
 
 **Public portfolio and technical showcase for Whitemore Ngwira**
 
-NWhite Systems is my public engineering and creative technology portfolio: full-stack digital platforms, AI-assisted workflows, analytics/reporting architecture, cloud infrastructure, and multimedia content systems for regulated and high-performance environments.
+NWhite Systems is my recruiter-facing portfolio index for selected full-stack, AI workflow, analytics, cloud, and creative technology work.
 
 ## Start Here
 
-- **Live portfolio index:** [docs/live-portfolio-index.md](docs/live-portfolio-index.md)
 - **Portfolio website:** https://nwhite.systems
+- **Live portfolio index:** [docs/live-portfolio-index.md](docs/live-portfolio-index.md)
 - **GitHub profile:** https://github.com/whitemorengwira
 - **Professional contact:** hello@nwhite.systems
 
-## What This Repository Is For
+## What This Repository Shows
 
-This repository acts as the recruiter-facing index for selected public work. It is intentionally curated: sensitive client code, private infrastructure, credentials, commercial data, investment logic, student data, and confidential documents are not published here.
+This repository gives employers a clean path through public work without exposing client-sensitive implementation detail. It links to live products, presentation systems, and sanitized case studies that demonstrate practical delivery across software architecture, public-facing UX, workflow design, documentation, and deployment.
 
-Where production work is confidential, I publish sanitized case studies, architecture notes, and implementation summaries instead of raw client source code.
+Production code, credentials, private dashboards, commercial records, and stakeholder data are not published here unless a project has been explicitly prepared for public review.
 
-## Featured Portfolio Tracks
+## Portfolio Signals
 
-| Track | What It Proves |
+| Signal | Evidence |
 |---|---|
-| Full-stack platform architecture | Practical delivery across front end, back end, APIs, deployment, and maintainability |
-| AI workflow architecture | AI-assisted operations, research systems, process automation, and human-in-the-loop workflow design |
-| Analytics architecture | Measurement planning, event design, KPI mapping, QA, and reporting logic |
-| Creative technology | Interactive digital experiences, brand systems, multimedia workflows, and content platforms |
-| Enterprise systems | Governance, audit readiness, reconciliation logic, and operational controls |
-| Sector platforms | Mining, insurance, education, media, e-commerce, and stakeholder presentation environments |
+| Full-stack platform delivery | Next.js, TypeScript, API, deployment, admin, and content workflow experience |
+| AI and workflow architecture | AI-assisted operations, automation planning, and human-in-the-loop process design |
+| Analytics and reporting | Measurement planning, dashboard thinking, event design, and quality control |
+| Creative technology | Interactive strategy sites, multimedia systems, branded digital experiences, and stakeholder presentations |
+| Regulated-sector awareness | Insurance, mining, education, investment, governance, confidentiality, and controlled-access systems |
 
-## Selected Case Studies
+## Selected Work
 
 - [Socinga Africa Enterprise Website](docs/case-studies/socinga-africa-enterprise.md)
 - [N.White Systems Personal Architecture Website](docs/case-studies/nwhite-systems.md)
@@ -42,8 +41,6 @@ Where production work is confidential, I publish sanitized case studies, archite
 - [SAM Dossier](docs/case-studies/sam-dossier.md)
 - [SAFA ProMax](docs/case-studies/safa-promax.md)
 
-## Security and Privacy Position
+## Confidentiality
 
-Public repositories are curated for portfolio review. They do not intentionally include production secrets, private client data, proprietary documents, confidential infrastructure, API keys, database credentials, service-role keys, or sensitive commercial records.
-
-Public websites may be shown as live portfolio evidence. Production source repositories remain private unless intentionally published and reviewed for safety.
+Some projects are represented through sanitized documentation rather than full production source. This protects client trust, stakeholder privacy, credentials, operational workflows, and commercially sensitive material while still giving reviewers clear evidence of role, architecture, delivery, and judgment.

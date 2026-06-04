@@ -1,25 +1,29 @@
 # SAM Dossier
 
-**Live URL:** [https://sam-dossier.vercel.app/](https://sam-dossier.vercel.app/)  
-**Source repository:** `whitemorengwira/sam-dossier`  
-**Current source status:** Login-gated public app shell; private source repository; sanitized public case-study repo exists
+**Live artifact:** [https://sam-dossier.vercel.app/](https://sam-dossier.vercel.app/)  
+**Portfolio role:** Mining investment dossier, stakeholder dashboard, document workflow  
+**Source posture:** Login-gated public shell with a sanitized case-study repository for public review.
 
-## Portfolio Positioning
+## Overview
 
-Confidential mining investment dossier, stakeholder dashboard, document workflow
+SAM Dossier is a controlled-access platform concept for mining investment workflows, stakeholder reporting, document access, and project-dashboard thinking.
 
-## What This Proves
+## My Role
 
-Confidential dossier platform shell for investor/stakeholder workflows, document access, and mining investment dashboard concepts.
+I shaped the public case-study framing, information architecture, workflow model, and dashboard concepts while keeping confidential investment and operational material separated from public review.
 
-## Safety Position
+## What This Demonstrates
 
-Do not market the raw source. Keep GitHub repo private and use the sanitized case-study repo instead. Live deployment should remain login-gated and should be reviewed separately for session/access rules.
+- Role-based workspace and document workflow thinking.
+- Investor/stakeholder dashboard architecture for sensitive sectors.
+- Ability to separate public proof of capability from protected production context.
 
-## How To Talk About It In Applications
+## Review Path
 
-Use this as evidence of practical delivery, systems thinking, stakeholder communication, and public-facing digital execution. Do not imply that confidential production source code is open-source. For sensitive platforms, point recruiters to this sanitized case study and offer deeper walkthroughs only where permission and confidentiality allow.
+1. Review the login-gated live shell.
+2. Read the standalone case-study repository: [SAM Dossier Case Study](https://github.com/whitemorengwira/sam-dossier-case-study).
+3. Use this page as a summary of the public portfolio relevance.
 
-## Suggested CV / Cover Letter Label
+## Confidentiality
 
-`SAM Dossier - Confidential mining investment dossier, stakeholder dashboard, document workflow`
+The public material intentionally avoids investor records, private documents, financial assumptions, credentials, user data, and operational mining details.

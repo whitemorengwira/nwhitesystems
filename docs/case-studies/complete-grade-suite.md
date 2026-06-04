@@ -1,25 +1,29 @@
 # Complete Grade Suite Mini E-Commerce
 
-**Live URL:** [https://complete-grade-suite.vercel.app/](https://complete-grade-suite.vercel.app/)  
-**Source repository:** `whitemorengwira/complete-grade-suite`  
-**Current source status:** Public mini e-commerce prototype; private source repository
+**Live artifact:** [https://complete-grade-suite.vercel.app/](https://complete-grade-suite.vercel.app/)  
+**Portfolio role:** E-commerce, multimedia equipment, production and studio asset presentation  
+**Source posture:** Public mini-commerce prototype with implementation detail summarized for portfolio review.
 
-## Portfolio Positioning
+## Overview
 
-E-commerce, multimedia equipment, production/studio asset sale
+Complete Grade Suite is a compact e-commerce prototype for presenting a professional colour grading and live production equipment package.
 
-## What This Proves
+## My Role
 
-Mini e-commerce experience for a professional colour grading and live production suite, including product comparison and sales positioning.
+I structured the product presentation, comparison logic, and sales-oriented user journey so the asset package could be reviewed clearly by potential buyers or stakeholders.
 
-## Safety Position
+## What This Demonstrates
 
-Suitable public showcase if pricing/assets are intended to be public. Keep source private unless it is intentionally open-sourced.
+- E-commerce layout and product comparison thinking.
+- Ability to package technical multimedia assets into a buyer-friendly digital experience.
+- Practical delivery of a focused public prototype with clear commercial intent.
 
-## How To Talk About It In Applications
+## Review Path
 
-Use this as evidence of practical delivery, systems thinking, stakeholder communication, and public-facing digital execution. Do not imply that confidential production source code is open-source. For sensitive platforms, point recruiters to this sanitized case study and offer deeper walkthroughs only where permission and confidentiality allow.
+1. Open the live artifact.
+2. Review the product framing, comparison flow, and call-to-action structure.
+3. Use this case study to understand the e-commerce and multimedia positioning behind the prototype.
 
-## Suggested CV / Cover Letter Label
+## Confidentiality
 
-`Complete Grade Suite Mini E-Commerce - E-commerce, multimedia equipment, production/studio asset sale`
+The public artifact is suitable for portfolio review. Pricing, asset ownership, transaction details, and implementation internals should be controlled separately where required.

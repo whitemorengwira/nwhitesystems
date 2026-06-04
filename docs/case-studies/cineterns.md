@@ -1,25 +1,29 @@
 # SA Film Interns / Cineterns Prototype
 
-**Live URL:** [https://cineterns.vercel.app/](https://cineterns.vercel.app/)  
-**Source repository:** `whitemorengwira/cineterns`  
-**Current source status:** Public prototype; private source repository
+**Live artifact:** [https://cineterns.vercel.app/](https://cineterns.vercel.app/)  
+**Portfolio role:** Creative technology, education talent platform, placement marketplace  
+**Source posture:** Public prototype with implementation detail summarized for portfolio review.
 
-## Portfolio Positioning
+## Overview
 
-Creative technology, education/talent platform, placement marketplace
+SA Film Interns / Cineterns is a prototype talent-placement platform for connecting film interns, productions, studios, broadcasters, and post-production partners.
 
-## What This Proves
+## My Role
 
-Prototype talent-placement platform connecting verified film interns, productions, studios, broadcasters, and post-production partners.
+I shaped the public product concept, information architecture, stakeholder journey, and implementation direction for a platform that has to serve both young creatives and industry partners.
 
-## Safety Position
+## What This Demonstrates
 
-Use as a prototype case study. Confirm no real intern or student private data is exposed before sharing broadly.
+- Marketplace-style platform thinking for education and creative-industry talent.
+- Ability to translate stakeholder needs into a practical digital experience.
+- Public-facing product framing for a sector where trust, verification, and presentation quality matter.
 
-## How To Talk About It In Applications
+## Review Path
 
-Use this as evidence of practical delivery, systems thinking, stakeholder communication, and public-facing digital execution. Do not imply that confidential production source code is open-source. For sensitive platforms, point recruiters to this sanitized case study and offer deeper walkthroughs only where permission and confidentiality allow.
+1. Open the live artifact.
+2. Review the public flows, positioning, and page structure.
+3. Use this case study as context for the product and systems thinking behind the prototype.
 
-## Suggested CV / Cover Letter Label
+## Confidentiality
 
-`SA Film Interns / Cineterns Prototype - Creative technology, education/talent platform, placement marketplace`
+The public artifact is suitable for portfolio review. Private student, intern, partner, admin, and operational data should remain outside public repositories.

@@ -1,25 +1,29 @@
 # Socinga Africa Enterprise Website
 
-**Live URL:** [https://www.socinga.africa/](https://www.socinga.africa/)  
-**Source repository:** `whitemorengwira/socinga-africa-enterprise`  
-**Current source status:** Public enterprise website; private source repository
+**Live artifact:** [https://www.socinga.africa/](https://www.socinga.africa/)  
+**Portfolio role:** Enterprise digital platform, regulated-sector systems, cross-border stakeholder communication  
+**Source posture:** Public website with production implementation kept controlled.
 
-## Portfolio Positioning
+## Overview
 
-Enterprise digital platform, regulated-sector systems, cross-border operations
+Socinga Africa is a public enterprise website spanning insurance, creative studios, mining, foundation, news, and EarCodeX positioning.
 
-## What This Proves
+## My Role
 
-Pan-African enterprise website spanning insurance, creative studios, mining, foundation, news, and EarCodeX positioning.
+I contributed to the digital platform structure, public-facing content architecture, regulated-sector positioning, and systems thinking behind a multi-division enterprise web presence.
 
-## Safety Position
+## What This Demonstrates
 
-Safe as an official public website, but source code remains private because it contains enterprise platform logic and operational context.
+- Enterprise information architecture across multiple business divisions.
+- Public-facing digital execution for regulated and stakeholder-heavy sectors.
+- Ability to connect brand, governance, content, and operational credibility in one web platform.
 
-## How To Talk About It In Applications
+## Review Path
 
-Use this as evidence of practical delivery, systems thinking, stakeholder communication, and public-facing digital execution. Do not imply that confidential production source code is open-source. For sensitive platforms, point recruiters to this sanitized case study and offer deeper walkthroughs only where permission and confidentiality allow.
+1. Open the live website.
+2. Review the public divisions, news, and stakeholder-facing sections.
+3. See the standalone case-study repository for broader context: [Socinga Africa Enterprise Case Study](https://github.com/whitemorengwira/socinga-africa-enterprise-case-study).
 
-## Suggested CV / Cover Letter Label
+## Confidentiality
 
-`Socinga Africa Enterprise Website - Enterprise digital platform, regulated-sector systems, cross-border operations`
+The public website is suitable for review. Credentials, private operations, client data, infrastructure detail, and internal enterprise workflows remain controlled separately.

@@ -1,25 +1,29 @@
 # Socinga Africa Mining Investment Mandate
 
-**Live URL:** [https://socinga-africa-mining.vercel.app/](https://socinga-africa-mining.vercel.app/)  
-**Source repository:** `whitemorengwira/socinga-africa-mining`  
-**Current source status:** Public investment presentation; private source repository
+**Live artifact:** [https://socinga-africa-mining.vercel.app/](https://socinga-africa-mining.vercel.app/)  
+**Portfolio role:** Mining investment mandate, institutional stakeholder presentation, investor-facing UX  
+**Source posture:** Public presentation with commercially sensitive material kept controlled.
 
-## Portfolio Positioning
+## Overview
 
-Mining investment mandate, institutional stakeholder presentation
+Socinga Africa Mining Investment Mandate is an investor-facing presentation experience for mining assets, mandate positioning, stakeholder communication, and institutional review.
 
-## What This Proves
+## My Role
 
-Institutional-grade mining investment and asset-backing presentation created for investors, mine asset owners, and brokers.
+I shaped the public presentation structure, investor narrative, digital experience, and stakeholder-facing information architecture.
 
-## Safety Position
+## What This Demonstrates
 
-Keep source private. Share as a controlled case study because investment, mining, mandate, and asset-owner material can be commercially sensitive.
+- Ability to package complex investment material into a structured digital presentation.
+- Mining and asset-backed stakeholder communication.
+- UX judgment for institutional readers who need clarity, credibility, and controlled disclosure.
 
-## How To Talk About It In Applications
+## Review Path
 
-Use this as evidence of practical delivery, systems thinking, stakeholder communication, and public-facing digital execution. Do not imply that confidential production source code is open-source. For sensitive platforms, point recruiters to this sanitized case study and offer deeper walkthroughs only where permission and confidentiality allow.
+1. Open the live artifact.
+2. Review the structure, narrative flow, and investment-facing presentation.
+3. Use this case study to understand the stakeholder and information-architecture work behind the presentation.
 
-## Suggested CV / Cover Letter Label
+## Confidentiality
 
-`Socinga Africa Mining Investment Mandate - Mining investment mandate, institutional stakeholder presentation`
+The public artifact is suitable for portfolio review. Private investment assumptions, asset-owner material, broker discussions, credentials, and commercial documents remain controlled separately.

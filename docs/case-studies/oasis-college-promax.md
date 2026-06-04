@@ -1,25 +1,29 @@
 # Oasis College Smart Website Prototype
 
-**Live URL:** [https://oasis-college-promax.vercel.app/](https://oasis-college-promax.vercel.app/)  
-**Source repository:** `whitemorengwira/oasis-college-promax`  
-**Current source status:** Public school prototype; private source repository
+**Live artifact:** [https://oasis-college-promax.vercel.app/](https://oasis-college-promax.vercel.app/)  
+**Portfolio role:** Education technology, smart school website, portal concept  
+**Source posture:** Public prototype with student, admin, and operational data kept controlled.
 
-## Portfolio Positioning
+## Overview
 
-Education technology, smart school website, portal prototype
+Oasis College Smart Website Prototype is a responsive education-technology concept covering admissions, campus life, news, school tools, and portal-style user journeys.
 
-## What This Proves
+## My Role
 
-Smart school website prototype with admissions, campus life, news, tools, portal concepts, and responsive public experience.
+I shaped the public website structure, school-facing product narrative, portal concepts, and responsive presentation so the idea could be reviewed as a working digital experience.
 
-## Safety Position
+## What This Demonstrates
 
-Keep source private. Public page includes school identity, contact, portal/admin/student language; avoid exposing admin workflows or student data.
+- Education-technology product thinking for schools and parents.
+- Responsive public website delivery with admissions and campus-content flows.
+- Awareness of the separation between public school information and protected student or admin workflows.
 
-## How To Talk About It In Applications
+## Review Path
 
-Use this as evidence of practical delivery, systems thinking, stakeholder communication, and public-facing digital execution. Do not imply that confidential production source code is open-source. For sensitive platforms, point recruiters to this sanitized case study and offer deeper walkthroughs only where permission and confidentiality allow.
+1. Open the live artifact.
+2. Review the admissions, campus-life, news, and portal-concept areas.
+3. Use this case study to understand the public experience and product architecture behind the prototype.
 
-## Suggested CV / Cover Letter Label
+## Confidentiality
 
-`Oasis College Smart Website Prototype - Education technology, smart school website, portal prototype`
+The public artifact is suitable for portfolio review. Student records, admin workflows, credentials, private contact data, and operational school systems should remain outside public repositories.

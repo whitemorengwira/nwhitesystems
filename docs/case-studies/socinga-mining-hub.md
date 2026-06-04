@@ -1,25 +1,29 @@
 # Socinga Africa Mining Hub
 
-**Live URL:** [https://www.socinga.africa/mining-hub](https://www.socinga.africa/mining-hub)  
-**Source repository:** `whitemorengwira/socinga-africa-enterprise`  
-**Current source status:** Public enterprise route; private source repository
+**Live artifact:** [https://www.socinga.africa/mining-hub](https://www.socinga.africa/mining-hub)  
+**Portfolio role:** Mining marketplace, stakeholder platform, investment-sector digital infrastructure  
+**Source posture:** Public enterprise route with commercial implementation kept controlled.
 
-## Portfolio Positioning
+## Overview
 
-Mining marketplace, stakeholder platform, investment-sector digital infrastructure
+The Socinga Africa Mining Hub is a public enterprise route for regional mining assets, marketplace-style positioning, investor communication, listings concepts, and sector-specific stakeholder navigation.
 
-## What This Proves
+## My Role
 
-Mining Hub route for regional assets, mining marketplace logic, listings/jobs, investor hub, and mining-sector public narrative.
+I contributed to the information architecture, public narrative, platform positioning, and stakeholder-facing structure for the mining sector surface.
 
-## Safety Position
+## What This Demonstrates
 
-Public route is part of the official enterprise website. Keep source private because mining, investment, and financial content can be sensitive.
+- Mining-sector platform and marketplace thinking.
+- Ability to connect investor, broker, asset-owner, and public communication needs.
+- Public-facing enterprise UX for commercially sensitive sectors.
 
-## How To Talk About It In Applications
+## Review Path
 
-Use this as evidence of practical delivery, systems thinking, stakeholder communication, and public-facing digital execution. Do not imply that confidential production source code is open-source. For sensitive platforms, point recruiters to this sanitized case study and offer deeper walkthroughs only where permission and confidentiality allow.
+1. Open the live route.
+2. Review the marketplace, listings, and investor-facing sections.
+3. Use this case study alongside the Socinga Africa Enterprise Website case study for broader platform context.
 
-## Suggested CV / Cover Letter Label
+## Confidentiality
 
-`Socinga Africa Mining Hub - Mining marketplace, stakeholder platform, investment-sector digital infrastructure`
+The public route is suitable for review. Private mining records, financial assumptions, broker conversations, transaction data, and infrastructure details remain controlled separately.

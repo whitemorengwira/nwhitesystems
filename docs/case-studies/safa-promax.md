@@ -1,25 +1,29 @@
 # SAFA ProMax
 
-**Live URL:** [https://safa-promax.vercel.app/](https://safa-promax.vercel.app/)  
-**Source repository:** `whitemorengwira/safa-promax`  
-**Current source status:** Login-gated public app shell; public source repo already rewritten for portfolio review
+**Live artifact:** [https://safa-promax.vercel.app/](https://safa-promax.vercel.app/)  
+**Portfolio role:** Creative technology, board-facing strategy platform, protected stakeholder presentation  
+**Source posture:** Public source repo and live app prepared for portfolio review.
 
-## Portfolio Positioning
+## Overview
 
-Creative technology, marketing strategy, board-facing stakeholder presentation
+SAFA ProMax is a board-facing creative technology and stakeholder strategy platform for SA Film Academy, combining presentation flow, CMS/admin concepts, responsive UX, and evidence-led reporting logic.
 
-## What This Proves
+## My Role
 
-Board-facing 360-degree marketing strategy platform for SA Film Academy with presentation access, CMS/admin concepts, and stakeholder narrative.
+I contributed systems architecture, implementation direction, visual-system thinking, stakeholder presentation flow, and governance-oriented documentation for a platform designed to support executive review.
 
-## Safety Position
+## What This Demonstrates
 
-Acceptable as a public showcase after README/security hardening, but continue monitoring for internal board strategy exposure and admin/CMS route leakage.
+- Full-stack platform delivery with a public source repository.
+- Ability to translate strategic material into a structured web experience.
+- Protected presentation and CMS/admin workflow thinking for stakeholder-heavy environments.
 
-## How To Talk About It In Applications
+## Review Path
 
-Use this as evidence of practical delivery, systems thinking, stakeholder communication, and public-facing digital execution. Do not imply that confidential production source code is open-source. For sensitive platforms, point recruiters to this sanitized case study and offer deeper walkthroughs only where permission and confidentiality allow.
+1. Open the live artifact.
+2. Review the public repository: [SAFA ProMax](https://github.com/whitemorengwira/safa-promax).
+3. Read the repository README and security policy for implementation and portfolio context.
 
-## Suggested CV / Cover Letter Label
+## Confidentiality
 
-`SAFA ProMax - Creative technology, marketing strategy, board-facing stakeholder presentation`
+The public repository is curated for portfolio review. Sensitive strategy material, credentials, private stakeholder data, and confidential operational details should remain controlled separately.
