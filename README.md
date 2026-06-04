@@ -2,11 +2,14 @@
 
 **Public portfolio and technical showcase for Whitemore Ngwira**
 
+[![Portfolio hygiene](https://github.com/whitemorengwira/nwhitesystems/actions/workflows/portfolio-hygiene.yml/badge.svg)](https://github.com/whitemorengwira/nwhitesystems/actions/workflows/portfolio-hygiene.yml)
+
 NWhite Systems is my recruiter-facing portfolio index for selected full-stack, AI workflow, analytics, cloud, and creative technology work.
 
 ## Start Here
 
 - **Portfolio website:** https://nwhite.systems
+- **Recruiter review guide:** [docs/recruiter-review-guide.md](docs/recruiter-review-guide.md)
 - **Live portfolio index:** [docs/live-portfolio-index.md](docs/live-portfolio-index.md)
 - **GitHub profile:** https://github.com/whitemorengwira
 - **Professional contact:** [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request)

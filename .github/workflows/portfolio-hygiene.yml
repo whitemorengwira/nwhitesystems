@@ -1,0 +1,48 @@
+name: Portfolio hygiene
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  verify-public-copy:
+    name: Verify public portfolio copy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Scan for internal public-copy leakage
+        run: |
+          if grep -RInE "Safety Position|How To Talk About|Suggested CV|Current source status|private source repository|MANUS|Antigravity|throwaway|TODO" --include='*.md' .; then
+            echo "Internal or draft wording found in public Markdown."
+            exit 1
+          fi
+
+      - name: Verify case-study structure
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+
+          root = Path("docs/case-studies")
+          expected = sorted(root.glob("*.md"))
+          if len(expected) != 11:
+              raise SystemExit(f"Expected 11 case studies, found {len(expected)}")
+
+          for path in expected:
+              text = path.read_text(encoding="utf-8")
+              image_tags = re.findall(r"^!\[[^\]]*\]\([^)]+\)", text, flags=re.M)
+              if len(image_tags) != 1:
+                  raise SystemExit(f"{path} should contain exactly one hero image, found {len(image_tags)}")
+              if text.count("## Technical Proof") != 1:
+                  raise SystemExit(f"{path} should contain exactly one Technical Proof section")
+              target = re.search(r"^!\[[^\]]*\]\(([^)]+)\)", text, flags=re.M).group(1)
+              image_path = (path.parent / target).resolve()
+              if not image_path.exists():
+                  raise SystemExit(f"{path} references a missing image: {target}")
+
+          print("Portfolio case-study structure verified.")
+          PY
