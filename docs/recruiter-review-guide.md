@@ -55,11 +55,12 @@ _Generated public walkthrough media. No private dashboards, credentials, student
 
 ## Public Verification Signals
 
-- Verified on June 4, 2026.
+- Verified on June 5, 2026.
 - Six public showcase repositories were curated for recruiter review with clean default branches.
 - The portfolio repository passed local hygiene checks for case-study structure and internal-copy leakage before publication.
 - The SAFA ProMax source repository passed local `npm run lint -- --max-warnings=0`, `npm run typecheck`, `npm run build`, and `npm audit --omit=dev` verification before this conversion layer.
 - The SAFA ProMax dependency alert for PostCSS was fixed with a safe package override path.
+- GitHub Free hygiene is active across the showcase repos: community files, copyright/usage boundaries, light branch protection, disabled noisy tabs, release tags, and public verification workflows.
 - Public case studies avoid credentials, private dashboards, internal workflow notes, student records, investor records, and client-sensitive data.
 
 ## Contact

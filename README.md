@@ -88,11 +88,12 @@ _Generated public walkthrough media below uses public screenshots and generated 
 
 ## Public Verification Signals
 
-_Date-stamped for recruiter context: verified on June 4, 2026._
+_Date-stamped for recruiter context: verified on June 5, 2026._
 
 - Six public showcase repositories are curated for recruiter review with clean default branches.
 - SAFA ProMax passed `npm run lint -- --max-warnings=0`, `npm run typecheck`, `npm run build`, and `npm audit --omit=dev` before this conversion layer.
 - The SAFA ProMax PostCSS/Next security alert was handled through a safe update/override path.
+- GitHub Free hygiene is active across the showcase repos: community files, copyright/usage boundaries, light branch protection, disabled noisy tabs, release tags, and public verification workflows.
 - Public case studies label generated visuals clearly and avoid credentials, private dashboards, internal workflow notes, student records, investor records, and client-sensitive data.
 
 ## Request Walkthrough
