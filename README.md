@@ -12,6 +12,7 @@ NWhite Systems is my recruiter-facing portfolio index for selected full-stack, A
 - **Architecture notes:** [docs/architecture-notes.md](docs/architecture-notes.md)
 - **Live portfolio index:** [docs/live-portfolio-index.md](docs/live-portfolio-index.md)
 - **Recruiter outreach kit:** [docs/recruiter-outreach-kit.md](docs/recruiter-outreach-kit.md)
+- **GitHub Free hygiene notes:** [docs/github-free-hygiene.md](docs/github-free-hygiene.md)
 - **GitHub profile:** https://github.com/whitemorengwira
 - **Professional contact:** [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request)
 
