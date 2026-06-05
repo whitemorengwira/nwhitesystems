@@ -7,7 +7,8 @@ This portfolio uses GitHub Free-compatible hygiene only:
 - Public community files without an open-source license grant.
 - Default branch protection that blocks force pushes and branch deletion.
 - Public repository Actions for markdown and copy checks.
-- CodeQL on the public SAFA ProMax source repository.
+- CodeQL workflow on the public SAFA ProMax source repository.
+- Dependabot security updates, secret scanning, push protection, and private vulnerability reporting enabled across the six public showcase repositories.
 - Social preview images committed as repository assets.
 
 ## Social Preview Assets
@@ -28,4 +29,3 @@ Manual upload path: repository `Settings` -> `General` -> `Social preview`.
 ## Licensing Position
 
 These repositories are public for review, not open-source redistribution. Do not add a `LICENSE` file unless Whitemore Ngwira explicitly approves a reuse license later.
-
