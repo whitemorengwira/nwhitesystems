@@ -13,16 +13,16 @@ This portfolio uses GitHub Free-compatible hygiene only:
 
 ## Social Preview Assets
 
-GitHub social preview images are uploaded through each repository's Settings page. No safe public GitHub API endpoint was available in this session for direct upload, so the preview assets are committed for manual upload:
+GitHub social preview images are uploaded through each repository's Settings page. No safe public GitHub API endpoint was available in this session for direct upload, so the preview assets are committed for upload. Use the JPEG versions for the GitHub settings upload because they are smaller and below GitHub's image-size warning threshold; keep the PNG versions as source-quality public assets.
 
 | Repository | Social preview asset |
 |---|---|
-| `nwhitesystems` | `docs/assets/social-preview.png` |
-| `whitemorengwira` | `.github/assets/social-preview.png` |
-| `safa-promax` | `docs/assets/social-preview.png` |
-| `earcodex-case-study` | `assets/social-preview.png` |
-| `socinga-africa-enterprise-case-study` | `assets/social-preview.png` |
-| `sam-dossier-case-study` | `assets/social-preview.png` |
+| `nwhitesystems` | `docs/assets/social-preview.jpg` |
+| `whitemorengwira` | `.github/assets/social-preview.jpg` |
+| `safa-promax` | `docs/assets/social-preview.jpg` |
+| `earcodex-case-study` | `assets/social-preview.jpg` |
+| `socinga-africa-enterprise-case-study` | `assets/social-preview.jpg` |
+| `sam-dossier-case-study` | `assets/social-preview.jpg` |
 
 Manual upload path: repository `Settings` -> `General` -> `Social preview`.
 
