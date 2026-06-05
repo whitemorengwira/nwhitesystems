@@ -4,22 +4,24 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 
 ## Best First Clicks
 
-| Time available | Review path | Why it matters |
+| Time available | Public evidence | Why it matters |
 |---|---|---|
-| 2 minutes | Open [nwhite.systems](https://nwhite.systems) | Fastest overview of positioning, services, and contact path |
+| 2 minutes | [nwhite.systems](https://nwhite.systems) | Fastest overview of positioning, services, and contact path |
 | 5 minutes | Read the [NWhite Systems README](../README.md) | Shows selected work, portfolio signals, and visual context |
-| 10 minutes | Open the [live portfolio index](live-portfolio-index.md) | Lets you choose role-relevant projects quickly |
-| Forward internally | Share the [one-page recruiter PDF](assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) | Compact proof pack for hiring managers and technical reviewers |
+| 10 minutes | [Live portfolio index](live-portfolio-index.md) | Role-relevant projects organized for quick review |
+| Internal review | [One-page recruiter PDF](assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) | Compact proof pack for hiring managers and technical reviewers |
 | Technical review | Read the [architecture notes](architecture-notes.md) | Shows system thinking, delivery model, and confidentiality judgment |
-| Deeper review | Inspect [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) | Public source repository with local build/audit verification and curated documentation |
+| Deeper review | [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) | Public source repository with local build/audit verification and curated documentation |
 
-## Review In 90 Seconds
+## 90-Second Evidence Route
 
-1. Open [nwhite.systems](https://nwhite.systems).
-2. Watch the [portfolio review path walkthrough](assets/demo/portfolio-review-path.mp4).
-3. Inspect [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) for source-level evidence.
-4. Open the [one-page recruiter PDF](assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf).
-5. Send a walkthrough request to [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request).
+| Hiring need | Public evidence |
+|---|---|
+| Fast orientation | [nwhite.systems](https://nwhite.systems) |
+| Guided overview | [Portfolio review path walkthrough](assets/demo/portfolio-review-path.mp4) |
+| Source-level evidence | [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) |
+| Internal hiring review | [One-page recruiter PDF](assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) |
+| Walkthrough request | [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) where permissions allow |
 
 ## Role-Fit Map
 
@@ -33,15 +35,15 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 | Mining/investor information architecture | [Socinga Mining Hub](case-studies/socinga-mining-hub.md), [Socinga Mining Mandate](case-studies/socinga-africa-mining.md), and [SAM Dossier](case-studies/sam-dossier.md) |
 | Creative technology and multimedia commerce | [Complete Grade Suite](case-studies/complete-grade-suite.md) and [EmpowaYouth](case-studies/empoweryouth.md) |
 
-## Review Checklist
+## Evidence Checklist
 
-- Open the live artifact linked at the top of each case study.
-- Read `My Role`, `What This Demonstrates`, and `Technical Proof`.
-- Check that each case study states its confidentiality boundary clearly.
-- Use the generated visuals as portfolio context, not as confidential product screenshots.
-- Use the public demo screenshots as evidence of live public surfaces where available.
-- Use the demo walkthroughs as guided review aids; they are generated from public visuals/screenshots only.
-- For source-level review, start with [SAFA ProMax](https://github.com/whitemorengwira/safa-promax).
+- Live artifacts are linked at the top of each case study.
+- `My Role`, `What This Demonstrates`, and `Technical Proof` summarize role, delivery, and systems judgment.
+- Each case study states its confidentiality boundary clearly.
+- Generated visuals provide portfolio context and are not confidential product screenshots.
+- Public demo screenshots provide evidence of live public surfaces where available.
+- Demo walkthroughs are guided review aids generated from public visuals/screenshots only.
+- Source-level review is best supported by [SAFA ProMax](https://github.com/whitemorengwira/safa-promax).
 
 ## Demo Walkthroughs
 

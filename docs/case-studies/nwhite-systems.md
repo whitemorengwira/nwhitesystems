@@ -31,14 +31,12 @@ I designed and built the public positioning, service architecture, content struc
 ## Technical Proof
 
 - **Stack and delivery signals:** Portfolio architecture, professional-services positioning, SEO-aware information structure, deployment discipline, and review-path design.
-- **Review checklist:** Review the service taxonomy, selected-work flow, contact path, and how the GitHub portfolio supports the public website.
+- **Public evidence:** Service taxonomy, selected-work flow, contact path, and the GitHub portfolio's support for the public website.
 - **Confidentiality boundary:** Public review should focus on positioning and delivery. Operational dashboards, private experiments, credentials, and commercial planning stay controlled.
 
-## Review Path
+## Public Review Context
 
-1. Open the live website.
-2. Review the services, positioning, and selected work.
-3. Use this repository as supporting context for the broader public portfolio.
+The live website presents services, positioning, and selected work. This repository adds supporting context for the broader public portfolio.
 
 ## Confidentiality
 
@@ -46,4 +44,4 @@ The public website is intended for employer and client review. Operational dashb
 
 ## Request Walkthrough
 
-For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20N.White%20Systems)
+Private walkthroughs are available where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20N.White%20Systems)

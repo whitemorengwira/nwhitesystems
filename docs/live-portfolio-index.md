@@ -16,12 +16,9 @@ This index gives reviewers a quick route through selected public work by Whitemo
 | [SAM Dossier](case-studies/sam-dossier.md) | https://sam-dossier.vercel.app/ | Confidential dossier workflows, stakeholder dashboards, controlled-access platform thinking | Login-gated shell; sanitized public case study only |
 | [SAFA ProMax](case-studies/safa-promax.md) | https://safa-promax.vercel.app/ | Board-facing strategy platform, creative technology, protected presentation workflows | Public portfolio repo and live app prepared for review |
 
-## Recommended Review Path
+## Reviewer Context
 
-1. Start with the portfolio website: https://nwhite.systems
-2. Review the selected case studies in this repository; each one includes a generated portfolio visual and a concise technical proof section.
-3. Open the live artifact linked from any case study that matches the role.
-4. Contact me at hello@nwhite.systems for deeper walkthroughs where confidentiality allows.
+This index helps hiring teams identify role-relevant examples across live artifacts and sanitized case studies. Each linked project separates public evidence from confidential production disclosure, so reviewers can assess role, architecture, delivery signals, and judgment without exposing private implementation detail.
 
 ## Overall Narrative
 

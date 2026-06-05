@@ -31,14 +31,12 @@ I shaped the public website structure, school-facing product narrative, portal c
 ## Technical Proof
 
 - **Stack and delivery signals:** Responsive education website prototype, admissions and campus content architecture, portal concept modeling, and public/private workflow separation.
-- **Review checklist:** Review admissions, campus life, news, school tools, and portal concept areas as evidence of school-facing product thinking.
+- **Public evidence:** Admissions, campus life, news, school tools, and portal concept areas as evidence of school-facing product thinking.
 - **Confidentiality boundary:** Public review must not include student records, admin workflows, credentials, parent contact details, grades, or operational school systems.
 
-## Review Path
+## Public Review Context
 
-1. Open the live artifact.
-2. Review the admissions, campus-life, news, and portal-concept areas.
-3. Use this case study to understand the public experience and product architecture behind the prototype.
+The live artifact presents admissions, campus-life, news, and portal-concept areas. This case study adds public-experience and product-architecture context behind the prototype.
 
 ## Confidentiality
 
@@ -46,4 +44,4 @@ The public artifact is suitable for portfolio review. Student records, admin wor
 
 ## Request Walkthrough
 
-For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Oasis%20College%20Smart%20Website)
+Private walkthroughs are available where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Oasis%20College%20Smart%20Website)

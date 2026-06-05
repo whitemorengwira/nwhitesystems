@@ -31,14 +31,12 @@ I shaped the public product concept, information architecture, stakeholder journ
 ## Technical Proof
 
 - **Stack and delivery signals:** Web prototype delivery, marketplace information architecture, stakeholder journey mapping, and responsive product presentation.
-- **Review checklist:** Check the public flows, profile/placement logic, partner positioning, and how the experience separates public discovery from verification concepts.
+- **Public evidence:** Public flows, profile/placement logic, partner positioning, and separation between public discovery and verification concepts.
 - **Confidentiality boundary:** Public review should focus on product structure and presentation. Real intern records, placement decisions, partner data, admin workflows, and credentials stay protected.
 
-## Review Path
+## Public Review Context
 
-1. Open the live artifact.
-2. Review the public flows, positioning, and page structure.
-3. Use this case study as context for the product and systems thinking behind the prototype.
+The live artifact presents the public flows, positioning, and page structure. This case study adds product and systems-thinking context behind the prototype.
 
 ## Confidentiality
 
@@ -46,4 +44,4 @@ The public artifact is suitable for portfolio review. Private student, intern, p
 
 ## Request Walkthrough
 
-For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Cineterns)
+Private walkthroughs are available where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Cineterns)

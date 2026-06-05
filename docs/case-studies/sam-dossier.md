@@ -31,14 +31,12 @@ I shaped the public case-study framing, information architecture, workflow model
 ## Technical Proof
 
 - **Stack and delivery signals:** Controlled-access product framing, dossier information architecture, stakeholder dashboard modeling, document workflow planning, and privacy-aware portfolio disclosure.
-- **Review checklist:** Review the login-gated shell, standalone case-study repository, role-based workspace concept, and protected-document boundary.
+- **Public evidence:** Login-gated shell, standalone case-study repository, role-based workspace concept, and protected-document boundary.
 - **Confidentiality boundary:** Public review must avoid investor records, private documents, financial assumptions, credentials, user data, document vault contents, and operational mining details.
 
-## Review Path
+## Public Review Context
 
-1. Review the login-gated live shell.
-2. Read the standalone case-study repository: [SAM Dossier Case Study](https://github.com/whitemorengwira/sam-dossier-case-study).
-3. Use this page as a summary of the public portfolio relevance.
+The login-gated live shell and standalone [SAM Dossier Case Study](https://github.com/whitemorengwira/sam-dossier-case-study) provide public context for controlled-access product framing and portfolio relevance.
 
 ## Confidentiality
 
@@ -46,4 +44,4 @@ The public material intentionally avoids investor records, private documents, fi
 
 ## Request Walkthrough
 
-For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20SAM%20Dossier)
+Private walkthroughs are available where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20SAM%20Dossier)

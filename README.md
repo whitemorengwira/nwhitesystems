@@ -4,7 +4,7 @@
 
 NWhite Systems is my recruiter-facing portfolio index for selected full-stack, AI workflow, analytics, cloud, and creative technology work.
 
-## Start Here
+## Public Review Entry Points
 
 - **Portfolio website:** https://nwhite.systems
 - **Recruiter review guide:** [docs/recruiter-review-guide.md](docs/recruiter-review-guide.md)
@@ -16,13 +16,15 @@ NWhite Systems is my recruiter-facing portfolio index for selected full-stack, A
 - **GitHub profile:** https://github.com/whitemorengwira
 - **Professional contact:** [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request)
 
-## Review In 90 Seconds
+## 90-Second Evidence Route
 
-1. Open the [portfolio website](https://nwhite.systems) for positioning, selected work, and contact path.
-2. Watch the [portfolio review walkthrough](docs/assets/demo/portfolio-review-path.mp4) for a quick public evidence route.
-3. Inspect [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) for source-level Next.js/TypeScript proof.
-4. Use the [recruiter PDF](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) when forwarding my profile internally.
-5. [Request a walkthrough](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) for deeper review where confidentiality allows.
+| Hiring need | Public evidence |
+|---|---|
+| Fast orientation | [Portfolio website](https://nwhite.systems) for positioning, selected work, and contact path |
+| Guided overview | [Portfolio review walkthrough](docs/assets/demo/portfolio-review-path.mp4) for a quick public evidence route |
+| Source-level proof | [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) for Next.js/TypeScript delivery evidence |
+| Internal hiring review | [One-page recruiter PDF](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) for compact hiring-manager context |
+| Deeper discussion | [Portfolio walkthrough request](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) where confidentiality allows |
 
 ## What This Repository Shows
 
@@ -40,7 +42,7 @@ Production code, credentials, private dashboards, commercial records, and stakeh
 | Creative technology | Interactive strategy sites, multimedia systems, branded digital experiences, and stakeholder presentations |
 | Regulated-sector awareness | Insurance, mining, education, investment, governance, confidentiality, and controlled-access systems |
 
-## Role-Specific Review Paths
+## Role-Specific Evidence
 
 | Hiring lens | Best first evidence |
 |---|---|
@@ -98,7 +100,7 @@ _Date-stamped for recruiter context: verified on June 5, 2026._
 
 ## Request Walkthrough
 
-Recruiters and hiring teams can start with the live portfolio, then use the case studies to review role, architecture, delivery signals, and confidentiality boundaries. For deeper review where permissions allow, [request a portfolio walkthrough](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request), or forward the [one-page recruiter PDF](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf).
+Recruiters and hiring teams can start with the live portfolio, then use the case studies to review role, architecture, delivery signals, and confidentiality boundaries. The [one-page recruiter PDF](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) is available for internal hiring review, and [portfolio walkthrough requests](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) are welcome where permissions allow.
 
 ## Confidentiality
 

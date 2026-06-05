@@ -31,14 +31,12 @@ I contributed systems architecture, implementation direction, visual-system thin
 ## Technical Proof
 
 - **Stack and delivery signals:** Next.js/TypeScript-style platform delivery, protected presentation thinking, CMS/admin workflow concepts, documentation discipline, and Vercel-hosted review path.
-- **Review checklist:** Review the live artifact, public repository root, security policy, app structure, and curated documentation surface.
+- **Public evidence:** Live artifact, public repository root, security policy, app structure, and curated documentation surface.
 - **Confidentiality boundary:** Public review covers the curated source and portfolio experience. Sensitive strategy material, credentials, stakeholder data, and non-public operational details stay controlled.
 
-## Review Path
+## Public Review Context
 
-1. Open the live artifact.
-2. Review the public repository: [SAFA ProMax](https://github.com/whitemorengwira/safa-promax).
-3. Read the repository README and security policy for implementation and portfolio context.
+The live artifact and public [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) repository provide implementation and portfolio context through the README, security policy, app structure, and curated documentation surface.
 
 ## Confidentiality
 
@@ -46,4 +44,4 @@ The public repository is curated for portfolio review. Sensitive strategy materi
 
 ## Request Walkthrough
 
-For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20SAFA%20ProMax)
+Private walkthroughs are available where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20SAFA%20ProMax)

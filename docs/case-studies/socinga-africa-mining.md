@@ -31,14 +31,12 @@ I shaped the public presentation structure, investor narrative, digital experien
 ## Technical Proof
 
 - **Stack and delivery signals:** Investor-facing presentation architecture, institutional narrative flow, mining-sector information structure, and controlled-disclosure UX.
-- **Review checklist:** Review the live artifact's sequence, decision-support framing, stakeholder language, and disclosure boundaries.
+- **Public evidence:** Live artifact sequence, decision-support framing, stakeholder language, and disclosure boundaries.
 - **Confidentiality boundary:** Public review should not expose private investment assumptions, asset-owner material, broker discussions, credentials, commercial documents, or non-public financial detail.
 
-## Review Path
+## Public Review Context
 
-1. Open the live artifact.
-2. Review the structure, narrative flow, and investment-facing presentation.
-3. Use this case study to understand the stakeholder and information-architecture work behind the presentation.
+The live artifact presents structure, narrative flow, and investment-facing presentation logic. This case study adds stakeholder and information-architecture context behind the presentation.
 
 ## Confidentiality
 
@@ -46,4 +44,4 @@ The public artifact is suitable for portfolio review. Private investment assumpt
 
 ## Request Walkthrough
 
-For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Socinga%20Africa%20Mining%20Mandate)
+Private walkthroughs are available where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Socinga%20Africa%20Mining%20Mandate)

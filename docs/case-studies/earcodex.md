@@ -31,14 +31,12 @@ I translated regulated workflow complexity into product architecture, public pos
 ## Technical Proof
 
 - **Stack and delivery signals:** SaaS product framing, reconciliation workflow modeling, audit-aware interface planning, and regulated-sector access-control thinking.
-- **Review checklist:** Review the public product narrative, assurance flow, verification concepts, and the standalone case-study repository for broader context.
+- **Public evidence:** Public product narrative, assurance flow, verification concepts, and the standalone case-study repository for broader context.
 - **Confidentiality boundary:** Public review should not expose credentials, admin areas, client records, workflow internals, deployment configuration, or sensitive product logic.
 
-## Review Path
+## Public Review Context
 
-1. Open the live artifact.
-2. Review the product narrative and public user experience.
-3. See the standalone case-study repository for broader context: [EarCodeX Case Study](https://github.com/whitemorengwira/earcodex-case-study).
+The live artifact presents the product narrative and public user experience. The standalone [EarCodeX Case Study](https://github.com/whitemorengwira/earcodex-case-study) adds broader public context.
 
 ## Confidentiality
 
@@ -46,4 +44,4 @@ The public artifact demonstrates product direction without publishing credential
 
 ## Request Walkthrough
 
-For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20EarCodeX)
+Private walkthroughs are available where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20EarCodeX)

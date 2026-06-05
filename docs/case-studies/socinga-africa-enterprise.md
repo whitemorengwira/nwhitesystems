@@ -31,14 +31,12 @@ I contributed to the digital platform structure, public-facing content architect
 ## Technical Proof
 
 - **Stack and delivery signals:** Enterprise information architecture, regulated-sector positioning, multi-division content structure, and public stakeholder communication.
-- **Review checklist:** Review the live site divisions, news surface, stakeholder-facing sections, and standalone case-study repository.
+- **Public evidence:** Live site divisions, news surface, stakeholder-facing sections, and standalone case-study repository.
 - **Confidentiality boundary:** Public review covers the website and sanitized case-study framing. Credentials, private operations, client data, infrastructure detail, and internal workflows stay controlled.
 
-## Review Path
+## Public Review Context
 
-1. Open the live website.
-2. Review the public divisions, news, and stakeholder-facing sections.
-3. See the standalone case-study repository for broader context: [Socinga Africa Enterprise Case Study](https://github.com/whitemorengwira/socinga-africa-enterprise-case-study).
+The live website presents public divisions, news, and stakeholder-facing sections. The standalone [Socinga Africa Enterprise Case Study](https://github.com/whitemorengwira/socinga-africa-enterprise-case-study) adds broader public context.
 
 ## Confidentiality
 
@@ -46,4 +44,4 @@ The public website is suitable for review. Credentials, private operations, clie
 
 ## Request Walkthrough
 
-For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Socinga%20Africa%20Enterprise)
+Private walkthroughs are available where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Socinga%20Africa%20Enterprise)

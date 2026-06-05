@@ -31,14 +31,12 @@ I structured the product presentation, comparison logic, and sales-oriented user
 ## Technical Proof
 
 - **Stack and delivery signals:** Public mini-commerce prototype, product comparison structure, conversion-oriented page flow, and multimedia asset positioning.
-- **Review checklist:** Review the product hierarchy, comparison logic, buyer journey, and clarity of the call-to-action path.
+- **Public evidence:** Product hierarchy, comparison logic, buyer journey, and call-to-action clarity.
 - **Confidentiality boundary:** Public review covers the commerce experience and presentation logic. Pricing strategy, ownership details, transaction records, and implementation internals stay controlled where required.
 
-## Review Path
+## Public Review Context
 
-1. Open the live artifact.
-2. Review the product framing, comparison flow, and call-to-action structure.
-3. Use this case study to understand the e-commerce and multimedia positioning behind the prototype.
+The live artifact presents product framing, comparison flow, and call-to-action structure. This case study adds e-commerce and multimedia positioning context behind the prototype.
 
 ## Confidentiality
 
@@ -46,4 +44,4 @@ The public artifact is suitable for portfolio review. Pricing, asset ownership, 
 
 ## Request Walkthrough
 
-For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Complete%20Grade%20Suite)
+Private walkthroughs are available where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Complete%20Grade%20Suite)

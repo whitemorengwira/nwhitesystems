@@ -31,14 +31,12 @@ I contributed to the information architecture, public narrative, platform positi
 ## Technical Proof
 
 - **Stack and delivery signals:** Mining marketplace information architecture, stakeholder navigation, listings concept framing, investor communication flow, and enterprise-route presentation.
-- **Review checklist:** Review the public mining hub route, listings/marketplace framing, investor-facing sections, and how it connects with the wider Socinga enterprise site.
+- **Public evidence:** Public mining hub route, listings/marketplace framing, investor-facing sections, and connection to the wider Socinga enterprise site.
 - **Confidentiality boundary:** Public review must avoid private mining records, financial assumptions, broker conversations, transaction data, coordinates, credentials, and infrastructure detail.
 
-## Review Path
+## Public Review Context
 
-1. Open the live route.
-2. Review the marketplace, listings, and investor-facing sections.
-3. Use this case study alongside the Socinga Africa Enterprise Website case study for broader platform context.
+The live route presents marketplace, listings, and investor-facing sections. This case study pairs with the Socinga Africa Enterprise Website case study for broader platform context.
 
 ## Confidentiality
 
@@ -46,4 +44,4 @@ The public route is suitable for review. Private mining records, financial assum
 
 ## Request Walkthrough
 
-For a private walkthrough where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Socinga%20Mining%20Hub)
+Private walkthroughs are available where confidentiality allows: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20-%20Socinga%20Mining%20Hub)
