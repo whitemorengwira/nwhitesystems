@@ -101,3 +101,7 @@ Recruiters and hiring teams can start with the live portfolio, then use the case
 ## Confidentiality
 
 Some projects are represented through sanitized documentation rather than full production source. This protects client trust, stakeholder privacy, credentials, operational workflows, and commercially sensitive material while still giving reviewers clear evidence of role, architecture, delivery, and judgment.
+
+## Usage Rights
+
+This repository is public for portfolio review only and is not open-source licensed. See [COPYRIGHT.md](COPYRIGHT.md) for usage boundaries.

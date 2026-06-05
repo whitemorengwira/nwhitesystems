@@ -1,0 +1,78 @@
+name: Public Hygiene
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  markdown-and-copy:
+    name: Markdown and public copy
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check required public files
+        run: |
+          set -euo pipefail
+          for file in README.md CONTRIBUTING.md CODE_OF_CONDUCT.md SUPPORT.md COPYRIGHT.md SECURITY.md; do
+            test -f "$file" || { echo "Missing $file"; exit 1; }
+          done
+          test ! -e LICENSE || { echo "LICENSE must not be added without explicit approval"; exit 1; }
+          test ! -e LICENSE.md || { echo "LICENSE.md must not be added without explicit approval"; exit 1; }
+
+      - name: Scan public copy
+        run: |
+          set -euo pipefail
+          if grep -RInE "Safety Position|How To Talk About|Suggested CV|Current source status|private source repository|MANUS|Antigravity|throwaway|TODO" . --include='*.md' --exclude-dir=.git; then
+            echo "Public copy scan found blocked wording"
+            exit 1
+          fi
+
+      - name: Validate local markdown links
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+          import sys
+          import urllib.parse
+
+          root = Path(".").resolve()
+          pattern = re.compile(r"!?\[[^\]]+\]\(([^)]+)\)")
+          failures = []
+
+          for md in root.rglob("*.md"):
+              if ".git" in md.parts:
+                  continue
+              text = md.read_text(encoding="utf-8", errors="replace")
+              for match in pattern.finditer(text):
+                  target = match.group(1).strip()
+                  if target.startswith("<") and target.endswith(">"):
+                      target = target[1:-1].strip()
+                  if not target or target.startswith(("#", "http://", "https://", "mailto:", "tel:")):
+                      continue
+                  target = target.split("#", 1)[0].split("?", 1)[0]
+                  if not target:
+                      continue
+                  candidate = (md.parent / urllib.parse.unquote(target)).resolve()
+                  try:
+                      candidate.relative_to(root)
+                  except ValueError:
+                      failures.append(f"{md}: link escapes repository: {target}")
+                      continue
+                  if not candidate.exists():
+                      failures.append(f"{md}: missing link target: {target}")
+
+          if failures:
+              print("\n".join(failures))
+              sys.exit(1)
+          print("All local markdown links resolve.")
+          PY
+

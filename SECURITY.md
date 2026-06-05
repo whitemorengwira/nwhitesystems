@@ -1,17 +1,9 @@
 # Security Policy
 
-## Reporting a Vulnerability
+This repository is a public portfolio and recruiter review surface. It should not contain secrets, credentials, private dashboards, client records, student records, investor records, or confidential operational details.
 
-If you find a vulnerability or sensitive exposure in this public portfolio repository, please contact:
+Report sensitive concerns by email: [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Security%20concern%20-%20public%20portfolio)
 
-- Email: hello@nwhite.systems
+Please include the repository name, file path or URL, what appears exposed, and why it may be sensitive.
 
-Please do not open a public issue for secrets, credentials, private infrastructure details, personal information, or client-sensitive material.
-
-## Portfolio Repository Scope
-
-This repository is maintained as a public portfolio artifact. It should not contain production secrets, API keys, private client data, confidential documents, database credentials, service-role keys, OAuth secrets, private infrastructure details, or proprietary assets without permission.
-
-## Supported Status
-
-Public portfolio repositories are reviewed periodically for dependency, secret, and privacy risks. Confidential production systems are kept private or represented through sanitized case studies.
+Do not open public issues for sensitive reports. The supported public surface is the default branch only; private production systems and confidential source are outside this repository.
