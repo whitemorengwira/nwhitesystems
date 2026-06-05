@@ -10,6 +10,7 @@ NWhite Systems is my recruiter-facing portfolio index for selected full-stack, A
 - **Recruiter review guide:** [docs/recruiter-review-guide.md](docs/recruiter-review-guide.md)
 - **One-page recruiter PDF:** [Whitemore Ngwira - Selected Systems Portfolio](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf)
 - **Architecture notes:** [docs/architecture-notes.md](docs/architecture-notes.md)
+- **Systems architecture proof log:** [docs/systems-architecture-proof-log.md](docs/systems-architecture-proof-log.md)
 - **Live portfolio index:** [docs/live-portfolio-index.md](docs/live-portfolio-index.md)
 - **Recruiter outreach kit:** [docs/recruiter-outreach-kit.md](docs/recruiter-outreach-kit.md)
 - **GitHub Free hygiene notes:** [docs/github-free-hygiene.md](docs/github-free-hygiene.md)
@@ -23,6 +24,7 @@ NWhite Systems is my recruiter-facing portfolio index for selected full-stack, A
 | Fast orientation | [Portfolio website](https://nwhite.systems) for positioning, selected work, and contact path |
 | Guided overview | [Portfolio review walkthrough](docs/assets/demo/portfolio-review-path.mp4) for a quick public evidence route |
 | Source-level proof | [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) for Next.js/TypeScript delivery evidence |
+| Architecture proof | [Systems architecture proof log](docs/systems-architecture-proof-log.md) for date-stamped public decisions and verification |
 | Internal hiring review | [One-page recruiter PDF](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) for compact hiring-manager context |
 | Deeper discussion | [Portfolio walkthrough request](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) where confidentiality allows |
 
@@ -46,7 +48,7 @@ Production code, credentials, private dashboards, commercial records, and stakeh
 
 | Hiring lens | Best first evidence |
 |---|---|
-| Systems architect | [Architecture notes](docs/architecture-notes.md), [N.White Systems case study](docs/case-studies/nwhite-systems.md), and the portfolio review walkthrough |
+| Systems architect | [Architecture notes](docs/architecture-notes.md), [systems architecture proof log](docs/systems-architecture-proof-log.md), and [N.White Systems case study](docs/case-studies/nwhite-systems.md) |
 | Full-stack/product engineer | [SAFA ProMax source](https://github.com/whitemorengwira/safa-promax), build/audit proof, and the SAFA demo walkthrough |
 | AI workflow builder | [EarCodeX](docs/case-studies/earcodex.md), [Cineterns](docs/case-studies/cineterns.md), and controlled workflow case studies |
 | Digital transformation / stakeholder systems | [Socinga Africa](docs/case-studies/socinga-africa-enterprise.md), [SAM Dossier](docs/case-studies/sam-dossier.md), and mining/investor workflow examples |
@@ -93,10 +95,15 @@ _Generated public walkthrough media below uses public screenshots and generated 
 _Date-stamped for recruiter context: verified on June 5, 2026._
 
 - Six public showcase repositories are curated for recruiter review with clean default branches.
+- GitHub social preview images are uploaded across all six showcase repositories, and profile pins are ordered for a clear review path.
 - SAFA ProMax passed `npm run lint -- --max-warnings=0`, `npm run typecheck`, `npm run build`, and `npm audit --omit=dev` before this conversion layer.
 - The SAFA ProMax PostCSS/Next security alert was handled through a safe update/override path.
 - GitHub Free hygiene is active across the showcase repos: community files, copyright/usage boundaries, light branch protection, disabled noisy tabs, release tags, public verification workflows, Dependabot security updates, secret scanning, push protection, and private vulnerability reporting.
 - Public case studies label generated visuals clearly and avoid credentials, private dashboards, internal workflow notes, student records, investor records, and client-sensitive data.
+
+## Monthly Proof Rhythm
+
+The [systems architecture proof log](docs/systems-architecture-proof-log.md) keeps monthly public evidence concise: problem, decision, tradeoff, verification, and review link. It is intentionally factual rather than promotional.
 
 ## Request Walkthrough
 

@@ -31,6 +31,16 @@ Hiring teams should see these patterns across the portfolio:
 - Public demo screenshots are captured from live public artifacts where available.
 - Source-level review is focused on curated public repositories, especially SAFA ProMax.
 
+## Architecture Decision Notes
+
+- [Public and private source boundary](architecture-decisions/public-private-source-boundary.md)
+- [Recruiter-safe case study pattern](architecture-decisions/recruiter-safe-case-study-pattern.md)
+- [SAFA public curation and verification](architecture-decisions/safa-public-curation-verification.md)
+
+## Monthly Proof Log
+
+The [systems architecture proof log](systems-architecture-proof-log.md) records public, date-stamped decisions and verification signals without exposing confidential implementation detail.
+
 ## Tradeoff Judgment
 
 I do not publish everything just to look busy. In sensitive sectors, restraint is part of engineering judgment. The portfolio is built to show capability, delivery thinking, and system structure while preserving trust with clients, stakeholders, learners, investors, and operators.

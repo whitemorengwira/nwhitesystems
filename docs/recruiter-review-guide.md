@@ -11,6 +11,7 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 | 10 minutes | [Live portfolio index](live-portfolio-index.md) | Role-relevant projects organized for quick review |
 | Internal review | [One-page recruiter PDF](assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) | Compact proof pack for hiring managers and technical reviewers |
 | Technical review | Read the [architecture notes](architecture-notes.md) | Shows system thinking, delivery model, and confidentiality judgment |
+| Monthly proof | [Systems architecture proof log](systems-architecture-proof-log.md) | Date-stamped decisions, tradeoffs, verification, and public review links |
 | Deeper review | [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) | Public source repository with local build/audit verification and curated documentation |
 
 ## 90-Second Evidence Route
@@ -20,6 +21,7 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 | Fast orientation | [nwhite.systems](https://nwhite.systems) |
 | Guided overview | [Portfolio review path walkthrough](assets/demo/portfolio-review-path.mp4) |
 | Source-level evidence | [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) |
+| Architecture proof | [Systems architecture proof log](systems-architecture-proof-log.md) |
 | Internal hiring review | [One-page recruiter PDF](assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) |
 | Walkthrough request | [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) where permissions allow |
 
@@ -43,6 +45,7 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 - Generated visuals provide portfolio context and are not confidential product screenshots.
 - Public demo screenshots provide evidence of live public surfaces where available.
 - Demo walkthroughs are guided review aids generated from public visuals/screenshots only.
+- The systems architecture proof log records monthly public decisions, tradeoffs, and verification signals.
 - Source-level review is best supported by [SAFA ProMax](https://github.com/whitemorengwira/safa-promax).
 
 ## Demo Walkthroughs
@@ -59,6 +62,8 @@ _Generated public walkthrough media. No private dashboards, credentials, student
 
 - Verified on June 5, 2026.
 - Six public showcase repositories were curated for recruiter review with clean default branches.
+- Social preview images are uploaded across all six public showcase repositories.
+- Profile pins are ordered for the intended recruiter review sequence.
 - The portfolio repository passed local hygiene checks for case-study structure and internal-copy leakage before publication.
 - The SAFA ProMax source repository passed local `npm run lint -- --max-warnings=0`, `npm run typecheck`, `npm run build`, and `npm audit --omit=dev` verification before this conversion layer.
 - The SAFA ProMax dependency alert for PostCSS was fixed with a safe package override path.
