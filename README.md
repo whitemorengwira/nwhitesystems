@@ -8,6 +8,7 @@ NWhite Systems is my recruiter-facing portfolio index for selected full-stack, A
 
 - **Portfolio website:** https://nwhite.systems
 - **Recruiter review guide:** [docs/recruiter-review-guide.md](docs/recruiter-review-guide.md)
+- **Current recruiter proof path:** [docs/current-recruiter-proof-path.md](docs/current-recruiter-proof-path.md)
 - **One-page recruiter PDF:** [Whitemore Ngwira - Selected Systems Portfolio](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf)
 - **Architecture notes:** [docs/architecture-notes.md](docs/architecture-notes.md)
 - **Systems architecture proof log:** [docs/systems-architecture-proof-log.md](docs/systems-architecture-proof-log.md)
@@ -33,6 +34,10 @@ NWhite Systems is my recruiter-facing portfolio index for selected full-stack, A
 This repository gives employers a clean path through public work without exposing client-sensitive implementation detail. It links to live products, presentation systems, and sanitized case studies that demonstrate practical delivery across software architecture, public-facing UX, workflow design, documentation, and deployment.
 
 Production code, credentials, private dashboards, commercial records, and stakeholder data are not published here unless a project has been explicitly prepared for public review.
+
+## Current Profile Alignment
+
+As of June 7, 2026, this public proof path is aligned around systems architecture, cloud-first delivery, AI-assisted workflow design, full-stack platforms, analytics, and multimedia/content systems. My current Socinga Africa role is represented as Principal Systems Architect and Digital Infrastructure Lead, alongside my independent N.White Systems practice and public portfolio evidence.
 
 ## Portfolio Signals
 
@@ -92,10 +97,11 @@ _Generated public walkthrough media below uses public screenshots and generated 
 
 ## Public Verification Signals
 
-_Date-stamped for recruiter context: verified on June 5, 2026._
+_Date-stamped for recruiter context: verified on June 7, 2026._
 
 - Six public showcase repositories are curated for recruiter review with clean default branches.
 - GitHub social preview images are uploaded across all six showcase repositories, and profile pins are ordered for a clear review path.
+- Current profile language is aligned to the verified Socinga Africa title: Principal Systems Architect and Digital Infrastructure Lead.
 - SAFA ProMax passed `npm run lint -- --max-warnings=0`, `npm run typecheck`, `npm run build`, and `npm audit --omit=dev` before this conversion layer.
 - The SAFA ProMax PostCSS/Next security alert was handled through a safe update/override path.
 - GitHub Free hygiene is active across the showcase repos: community files, copyright/usage boundaries, light branch protection, disabled noisy tabs, release tags, public verification workflows, Dependabot security updates, secret scanning, push protection, and private vulnerability reporting.

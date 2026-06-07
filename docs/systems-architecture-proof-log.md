@@ -4,6 +4,28 @@ This log keeps a light monthly record of public, recruiter-safe systems architec
 
 ## June 2026
 
+### June 7, 2026 Profile-Alignment Refresh
+
+**Problem**
+
+Recruiter-facing profiles and public GitHub evidence needed to point to the same corrected current positioning without overstating executive responsibilities or publishing confidential implementation detail.
+
+**Architecture Decision**
+
+Keep the public proof path centred on systems architecture, cloud-first delivery, AI-assisted workflow design, full-stack platforms, analytics, and multimedia/content systems. Add a concise current proof page that links to the portfolio website, GitHub showcase, recruiter review guide, live artefact index, SAFA ProMax source, architecture notes, and one-page recruiter PDF.
+
+**Verification**
+
+- Current Socinga Africa title aligned as Principal Systems Architect and Digital Infrastructure Lead.
+- N.White Systems retained as the independent portfolio and public proof path.
+- Public evidence remains limited to live artefacts, source-prepared repositories, generated visuals, demo walkthroughs, and sanitized case studies.
+
+**Public Review Link**
+
+- [Current recruiter proof path](current-recruiter-proof-path.md)
+
+### Public Portfolio Conversion Layer
+
 **Problem**
 
 The public GitHub surface needed to prove systems architecture judgment while staying recruiter-safe, confidential, and readable. The previous portfolio evidence was strong but needed a clearer review path, stronger visual context, and cleaner public repo hygiene.

@@ -7,6 +7,7 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 | Time available | Public evidence | Why it matters |
 |---|---|---|
 | 2 minutes | [nwhite.systems](https://nwhite.systems) | Fastest overview of positioning, services, and contact path |
+| 3 minutes | [Current recruiter proof path](current-recruiter-proof-path.md) | Current title alignment, strongest proof links, and confidentiality boundary |
 | 5 minutes | Read the [NWhite Systems README](../README.md) | Shows selected work, portfolio signals, and visual context |
 | 10 minutes | [Live portfolio index](live-portfolio-index.md) | Role-relevant projects organized for quick review |
 | Internal review | [One-page recruiter PDF](assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) | Compact proof pack for hiring managers and technical reviewers |
@@ -60,8 +61,9 @@ _Generated public walkthrough media. No private dashboards, credentials, student
 
 ## Public Verification Signals
 
-- Verified on June 5, 2026.
+- Verified on June 7, 2026.
 - Six public showcase repositories were curated for recruiter review with clean default branches.
+- Current profile language is aligned to the verified Socinga Africa title: Principal Systems Architect and Digital Infrastructure Lead.
 - Social preview images are uploaded across all six public showcase repositories.
 - Profile pins are ordered for the intended recruiter review sequence.
 - The portfolio repository passed local hygiene checks for case-study structure and internal-copy leakage before publication.
