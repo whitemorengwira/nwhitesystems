@@ -32,4 +32,4 @@ My current Socinga Africa role is Principal Systems Architect and Digital Infras
 
 ## Confidentiality Boundary
 
-This public proof path deliberately uses live public artefacts, source-prepared repositories, generated visuals, demo walkthroughs, and sanitized case studies. It does not expose credentials, private dashboards, internal operations, records, investor material, student data, or client-sensitive workflows.
+This public proof path deliberately uses live public artefacts, source-prepared repositories, generated visuals, demo walkthroughs, and sanitised case studies. It does not expose credentials, private dashboards, internal operations, records, investor material, student data, or client-sensitive workflows.

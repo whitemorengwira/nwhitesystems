@@ -9,9 +9,9 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 | 2 minutes | [nwhite.systems](https://nwhite.systems) | Fastest overview of positioning, services, and contact path |
 | 3 minutes | [Current recruiter proof path](current-recruiter-proof-path.md) | Current title alignment, strongest proof links, and confidentiality boundary |
 | 5 minutes | Read the [NWhite Systems README](../README.md) | Shows selected work, portfolio signals, and visual context |
-| 10 minutes | [Live portfolio index](live-portfolio-index.md) | Role-relevant projects organized for quick review |
+| 10 minutes | [Live portfolio index](live-portfolio-index.md) | Role-relevant projects organised for quick review |
 | Internal review | [One-page recruiter PDF](assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) | Compact proof pack for hiring managers and technical reviewers |
-| Technical review | Read the [architecture notes](architecture-notes.md) | Shows system thinking, delivery model, and confidentiality judgment |
+| Technical review | Read the [architecture notes](architecture-notes.md) | Shows system thinking, delivery model, and confidentiality judgement |
 | Monthly proof | [Systems architecture proof log](systems-architecture-proof-log.md) | Date-stamped decisions, tradeoffs, verification, and public review links |
 | Deeper review | [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) | Public source repository with local build/audit verification and curated documentation |
 
@@ -40,8 +40,8 @@ This guide gives hiring teams a fast, portfolio-safe path through Whitemore Ngwi
 
 ## Evidence Checklist
 
-- Live artifacts are linked at the top of each case study.
-- `My Role`, `What This Demonstrates`, and `Technical Proof` summarize role, delivery, and systems judgment.
+- Live artefacts are linked at the top of each case study.
+- `My Role`, `What This Demonstrates`, and `Technical Proof` summarise role, delivery, and systems judgement.
 - Each case study states its confidentiality boundary clearly.
 - Generated visuals provide portfolio context and are not confidential product screenshots.
 - Public demo screenshots provide evidence of live public surfaces where available.

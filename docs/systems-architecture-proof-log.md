@@ -1,6 +1,6 @@
 # Systems Architecture Proof Log
 
-This log keeps a light monthly record of public, recruiter-safe systems architecture evidence. Entries summarize the problem, decision, tradeoff, verification, and public review link without exposing private source, credentials, client records, or confidential operations.
+This log keeps a light monthly record of public, recruiter-safe systems architecture evidence. Entries summarise the problem, decision, tradeoff, verification, and public review link without exposing private source, credentials, client records, or confidential operations.
 
 ## June 2026
 
@@ -18,7 +18,7 @@ Keep the public proof path centred on systems architecture, cloud-first delivery
 
 - Current Socinga Africa title aligned as Principal Systems Architect and Digital Infrastructure Lead.
 - N.White Systems retained as the independent portfolio and public proof path.
-- Public evidence remains limited to live artefacts, source-prepared repositories, generated visuals, demo walkthroughs, and sanitized case studies.
+- Public evidence remains limited to live artefacts, source-prepared repositories, generated visuals, demo walkthroughs, and sanitised case studies.
 
 **Public Review Link**
 
@@ -28,7 +28,7 @@ Keep the public proof path centred on systems architecture, cloud-first delivery
 
 **Problem**
 
-The public GitHub surface needed to prove systems architecture judgment while staying recruiter-safe, confidential, and readable. The previous portfolio evidence was strong but needed a clearer review path, stronger visual context, and cleaner public repo hygiene.
+The public GitHub surface needed to prove systems architecture judgement while staying recruiter-safe, confidential, and readable. The previous portfolio evidence was strong but needed a clearer review path, stronger visual context, and cleaner public repo hygiene.
 
 **Architecture Decision**
 

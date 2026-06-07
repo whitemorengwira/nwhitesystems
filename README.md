@@ -31,7 +31,7 @@ NWhite Systems is my recruiter-facing portfolio index for selected full-stack, A
 
 ## What This Repository Shows
 
-This repository gives employers a clean path through public work without exposing client-sensitive implementation detail. It links to live products, presentation systems, and sanitized case studies that demonstrate practical delivery across software architecture, public-facing UX, workflow design, documentation, and deployment.
+This repository gives employers a clean path through public work without exposing client-sensitive implementation detail. It links to live products, presentation systems, and sanitised case studies that demonstrate practical delivery across software architecture, public-facing UX, workflow design, documentation, and deployment.
 
 Production code, credentials, private dashboards, commercial records, and stakeholder data are not published here unless a project has been explicitly prepared for public review.
 
@@ -117,7 +117,7 @@ Recruiters and hiring teams can start with the live portfolio, then use the case
 
 ## Confidentiality
 
-Some projects are represented through sanitized documentation rather than full production source. This protects client trust, stakeholder privacy, credentials, operational workflows, and commercially sensitive material while still giving reviewers clear evidence of role, architecture, delivery, and judgment.
+Some projects are represented through sanitised documentation rather than full production source. This protects client trust, stakeholder privacy, credentials, operational workflows, and commercially sensitive material while still giving reviewers clear evidence of role, architecture, delivery, and judgement.
 
 ## Usage Rights
 
