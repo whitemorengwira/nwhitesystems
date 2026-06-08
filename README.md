@@ -54,25 +54,9 @@ This repository is a public portfolio index. It does not publish private credent
 
 This repository is public for portfolio review only. All rights are reserved unless explicitly stated otherwise.
 
-- Six public showcase repositories are curated for recruiter review with clean default branches.
-- GitHub social preview images are uploaded across all six showcase repositories, and profile pins are ordered for a clear review path.
-- Current profile language is aligned to the verified Socinga Africa title: Principal Systems Architect and Digital Infrastructure Lead.
-- SAFA ProMax passed `npm run lint -- --max-warnings=0`, `npm run typecheck`, `npm run build`, and `npm audit --omit=dev` before this conversion layer.
-- The SAFA ProMax PostCSS/Next security alert was handled through a safe update/override path.
-- GitHub Free hygiene is active across the showcase repos: community files, copyright/usage boundaries, light branch protection, disabled noisy tabs, release tags, public verification workflows, Dependabot security updates, secret scanning, push protection, and private vulnerability reporting.
-- Public case studies label generated visuals clearly and avoid credentials, private dashboards, internal workflow notes, student records, investor records, and client-sensitive data.
+Public case studies and selected work avoid credentials, private dashboards, client records, internal implementation details, and commercially sensitive material while providing clear evidence of role, architecture, delivery, and technical judgement.
 
-## Monthly Proof Rhythm
-
-The [systems architecture proof log](docs/systems-architecture-proof-log.md) keeps monthly public evidence concise: problem, decision, tradeoff, verification, and review link. It is intentionally factual rather than promotional.
-
-## Request Walkthrough
-
-Recruiters and hiring teams can start with the live portfolio, then use the case studies to review role, architecture, delivery signals, and confidentiality boundaries. The [one-page recruiter PDF](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) is available for internal hiring review, and [portfolio walkthrough requests](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) are welcome where permissions allow.
-
-## Confidentiality
-
-Some projects are represented through sanitised documentation rather than full production source. This protects client trust, stakeholder privacy, credentials, operational workflows, and commercially sensitive material while still giving reviewers clear evidence of role, architecture, delivery, and judgement.
+For recruiter review or portfolio walkthroughs, start with https://nwhite.systems/portfolio-review, then explore linked case studies and source repositories. For enquiries, use [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request).
 
 ## Usage Rights
 
