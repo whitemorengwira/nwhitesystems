@@ -1,103 +1,58 @@
 # NWhite Systems
 
-**Public portfolio and technical showcase for Whitemore Ngwira**
+Public technical portfolio for Whitemore Ngwira.
 
-NWhite Systems is my recruiter-facing portfolio index for selected full-stack, AI workflow, analytics, cloud, and creative technology work.
+NWhite Systems presents selected work across systems architecture, full-stack platform delivery, AI workflow design, analytics, cloud-first deployment and creative technology.
 
-## Public Review Entry Points
+## Public Review Links
 
-- **Portfolio website:** https://nwhite.systems
-- **Recruiter review guide:** [docs/recruiter-review-guide.md](docs/recruiter-review-guide.md)
-- **Current recruiter proof path:** [docs/current-recruiter-proof-path.md](docs/current-recruiter-proof-path.md)
-- **One-page recruiter PDF:** [Whitemore Ngwira - Selected Systems Portfolio](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf)
-- **Architecture notes:** [docs/architecture-notes.md](docs/architecture-notes.md)
-- **Systems architecture proof log:** [docs/systems-architecture-proof-log.md](docs/systems-architecture-proof-log.md)
-- **Live portfolio index:** [docs/live-portfolio-index.md](docs/live-portfolio-index.md)
-- **Recruiter outreach kit:** [docs/recruiter-outreach-kit.md](docs/recruiter-outreach-kit.md)
-- **GitHub Free hygiene notes:** [docs/github-free-hygiene.md](docs/github-free-hygiene.md)
-- **GitHub profile:** https://github.com/whitemorengwira
-- **Professional contact:** [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request)
+| Area | Link |
+| --- | --- |
+| Main portfolio | https://nwhite.systems |
+| Portfolio review path | https://nwhite.systems/portfolio-review |
+| About | https://nwhite.systems/about-me |
+| Selected work | https://nwhite.systems/my-portfolio |
+| AI automation | https://nwhite.systems/ai-automation |
+| SaaS development | https://nwhite.systems/saas-development |
+| AI operating system | https://nwhite.systems/ai-operating-system |
 
-## 90-Second Evidence Route
+## Technical Focus
 
-| Hiring need | Public evidence |
-|---|---|
-| Fast orientation | [Portfolio website](https://nwhite.systems) for positioning, selected work, and contact path |
-| Guided overview | [Portfolio review walkthrough](docs/assets/demo/portfolio-review-path.mp4) for a quick public evidence route |
-| Source-level proof | [SAFA ProMax](https://github.com/whitemorengwira/safa-promax) for Next.js/TypeScript delivery evidence |
-| Architecture proof | [Systems architecture proof log](docs/systems-architecture-proof-log.md) for date-stamped public decisions and verification |
-| Internal hiring review | [One-page recruiter PDF](docs/assets/recruiter-pack/Whitemore-Ngwira-Selected-Systems-Portfolio.pdf) for compact hiring-manager context |
-| Deeper discussion | [Portfolio walkthrough request](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) where confidentiality allows |
+- Systems architecture and platform design
+- Full-stack web platforms using modern JavaScript and TypeScript patterns
+- AI automation and workflow orchestration
+- SaaS product interfaces, dashboards and operating tools
+- API-led workflows and integration planning
+- Cloud-first deployment and public-facing digital infrastructure
+- Analytics, search, documentation and digital evidence systems
 
-## What This Repository Shows
+## Selected Public Evidence
 
-This repository gives employers a clean path through public work without exposing client-sensitive implementation detail. It links to live products, presentation systems, and sanitised case studies that demonstrate practical delivery across software architecture, public-facing UX, workflow design, documentation, and deployment.
+| Area | Evidence |
+| --- | --- |
+| Systems architecture | Portfolio systems, selected case studies and live digital platforms |
+| AI workflows | AI automation, operating-layer design and workflow orchestration examples |
+| SaaS delivery | SaaS development pages, dashboards and platform interfaces |
+| Public writing | Technical leadership, AI workflows and systems architecture articles |
+| Digital infrastructure | Cloud-first deployment, static publishing and production-ready web delivery |
 
-Production code, credentials, private dashboards, commercial records, and stakeholder data are not published here unless a project has been explicitly prepared for public review.
+## Review Path
 
-## Current Profile Alignment
+For a quick review, start with:
 
-As of June 7, 2026, this public proof path is aligned around systems architecture, cloud-first delivery, AI-assisted workflow design, full-stack platforms, analytics, and multimedia/content systems. My current Socinga Africa role is represented as Principal Systems Architect and Digital Infrastructure Lead, alongside my independent N.White Systems practice and public portfolio evidence.
+1. https://nwhite.systems/portfolio-review
+2. https://nwhite.systems/about-me
+3. https://nwhite.systems/my-portfolio
+4. https://nwhite.systems/ai-automation
+5. https://nwhite.systems/saas-development
 
-## Portfolio Signals
+## Confidentiality
 
-| Signal | Evidence |
-|---|---|
-| Full-stack platform delivery | Next.js, TypeScript, API, deployment, admin, and content workflow experience |
-| AI and workflow architecture | AI-assisted operations, automation planning, and human-in-the-loop process design |
-| Analytics and reporting | Measurement planning, dashboard thinking, event design, and quality control |
-| Creative technology | Interactive strategy sites, multimedia systems, branded digital experiences, and stakeholder presentations |
-| Regulated-sector awareness | Insurance, mining, education, investment, governance, confidentiality, and controlled-access systems |
+This repository is a public portfolio index. It does not publish private credentials, client records, internal dashboards, commercial records, operational logs or confidential implementation material.
 
-## Role-Specific Evidence
+## Usage
 
-| Hiring lens | Best first evidence |
-|---|---|
-| Systems architect | [Architecture notes](docs/architecture-notes.md), [systems architecture proof log](docs/systems-architecture-proof-log.md), and [N.White Systems case study](docs/case-studies/nwhite-systems.md) |
-| Full-stack/product engineer | [SAFA ProMax source](https://github.com/whitemorengwira/safa-promax), build/audit proof, and the SAFA demo walkthrough |
-| AI workflow builder | [EarCodeX](docs/case-studies/earcodex.md), [Cineterns](docs/case-studies/cineterns.md), and controlled workflow case studies |
-| Digital transformation / stakeholder systems | [Socinga Africa](docs/case-studies/socinga-africa-enterprise.md), [SAM Dossier](docs/case-studies/sam-dossier.md), and mining/investor workflow examples |
-
-## Visual Gallery
-
-_Generated portfolio visuals below are illustrations for public review; they are not confidential product screenshots._
-
-| Case study | Generated portfolio visual |
-|---|---|
-| [Socinga Africa Enterprise Website](docs/case-studies/socinga-africa-enterprise.md) | ![Generated portfolio visual for Socinga Africa Enterprise](docs/assets/case-studies/socinga-africa-enterprise-hero.png) |
-| [SAFA ProMax](docs/case-studies/safa-promax.md) | ![Generated portfolio visual for SAFA ProMax](docs/assets/case-studies/safa-promax-hero.png) |
-| [EarCodeX SaaS Prototype](docs/case-studies/earcodex.md) | ![Generated portfolio visual for EarCodeX](docs/assets/case-studies/earcodex-hero.png) |
-| [Oasis College Smart Website Prototype](docs/case-studies/oasis-college-promax.md) | ![Generated portfolio visual for Oasis College](docs/assets/case-studies/oasis-college-promax-hero.png) |
-| [SAM Dossier](docs/case-studies/sam-dossier.md) | ![Generated portfolio visual for SAM Dossier](docs/assets/case-studies/sam-dossier-hero.png) |
-| [Socinga Africa Mining Hub](docs/case-studies/socinga-mining-hub.md) | ![Generated portfolio visual for Socinga Africa Mining Hub](docs/assets/case-studies/socinga-mining-hub-hero.png) |
-
-## Demo Walkthroughs
-
-_Generated public walkthrough media below uses public screenshots and generated portfolio visuals only. It does not show private dashboards, credentials, records, or confidential workflows._
-
-| Walkthrough | Preview |
-|---|---|
-| [Portfolio review path](docs/assets/demo/portfolio-review-path.mp4) | [![Generated public demo walkthrough poster for the portfolio review path](docs/assets/demo/portfolio-review-path-poster.png)](docs/assets/demo/portfolio-review-path.mp4) |
-| [SAFA ProMax public source review](docs/assets/demo/safa-promax-demo.mp4) | [![Generated public demo walkthrough poster for SAFA ProMax](docs/assets/demo/safa-promax-demo-poster.png)](docs/assets/demo/safa-promax-demo.mp4) |
-| [EarCodeX regulated workflow review](docs/assets/demo/earcodex-demo.mp4) | [![Generated public demo walkthrough poster for EarCodeX](docs/assets/demo/earcodex-demo-poster.png)](docs/assets/demo/earcodex-demo.mp4) |
-
-## Selected Work
-
-- [Socinga Africa Enterprise Website](docs/case-studies/socinga-africa-enterprise.md)
-- [N.White Systems Personal Architecture Website](docs/case-studies/nwhite-systems.md)
-- [SA Film Interns / Cineterns Prototype](docs/case-studies/cineterns.md)
-- [EmpowaYouth Presentation Prototype](docs/case-studies/empoweryouth.md)
-- [Oasis College Smart Website Prototype](docs/case-studies/oasis-college-promax.md)
-- [EarCodeX SaaS Prototype](docs/case-studies/earcodex.md)
-- [Socinga Africa Mining Hub](docs/case-studies/socinga-mining-hub.md)
-- [Socinga Africa Mining Investment Mandate](docs/case-studies/socinga-africa-mining.md)
-- [Complete Grade Suite Mini E-Commerce](docs/case-studies/complete-grade-suite.md)
-- [SAM Dossier](docs/case-studies/sam-dossier.md)
-- [SAFA ProMax](docs/case-studies/safa-promax.md)
-
-## Public Verification Signals
-
-_Date-stamped for recruiter context: verified on June 7, 2026._
+This repository is public for portfolio review only. All rights are reserved unless explicitly stated otherwise.
 
 - Six public showcase repositories are curated for recruiter review with clean default branches.
 - GitHub social preview images are uploaded across all six showcase repositories, and profile pins are ordered for a clear review path.

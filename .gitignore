@@ -1,0 +1,44 @@
+# Internal/private working files
+_private/
+private/
+internal/
+prompts/
+runbooks/
+master-protocol-md/
+reports/
+codex-reports/
+.claude/
+docs/
+
+# Logs and temporary files
+*.log
+*.err.log
+*.tmp
+*.bak
+*.patch
+
+# AI working instructions and task briefs
+*codex*.md
+*claude*.md
+*chatgpt*.md
+*prompt*.md
+*agent*.md
+*runbook*.md
+*brief*.md
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*secret*
+*token*
+
+# Build and dependency
+node_modules/
+.next/
+out/
+dist/
+build/
+.vercel/
