@@ -1,62 +1,60 @@
-# NWhite Systems
+# N.White Systems — Public Portfolio Index
 
-Public technical portfolio for Whitemore Ngwira.
+This repository is the sanitised public portfolio index for **Whitemore Ngwira — Systems Architect, AI Workflow Architect and Creative Technologist**.
 
-NWhite Systems presents selected work across systems architecture, full-stack platform delivery, AI workflow design, analytics, cloud-first deployment and creative technology.
+> **Confidentiality boundary:** this repository contains portfolio summaries only. Production source code, deployment configuration, database migrations, environment templates, internal operating notes, credentials, client records and commercially sensitive implementation material are kept in private repositories.
 
-## Public Review Links
+## Start Here
 
-| Area | Link |
+| Area | Public link |
 | --- | --- |
-| Main portfolio | https://nwhite.systems |
-| Portfolio review path | https://nwhite.systems/portfolio-review |
-| About | https://nwhite.systems/about-me |
-| Selected work | https://nwhite.systems/my-portfolio |
-| AI automation | https://nwhite.systems/ai-automation |
-| SaaS development | https://nwhite.systems/saas-development |
-| AI operating system | https://nwhite.systems/ai-operating-system |
+| Main portfolio | [nwhite.systems](https://nwhite.systems/) |
+| Guided portfolio review | [nwhite.systems/portfolio-review](https://nwhite.systems/portfolio-review) |
+| Selected work | [nwhite.systems/my-portfolio](https://nwhite.systems/my-portfolio) |
+| Services | [nwhite.systems/services](https://nwhite.systems/services) |
+| About Whitemore Ngwira | [nwhite.systems/about-me](https://nwhite.systems/about-me) |
+| Professional contact | [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request) |
+
+## Selected Sanitised Case Studies
+
+| Project | Public evidence | Confidentiality posture |
+| --- | --- | --- |
+| SAFA ProMax | [Case study](case-studies/safa-promax.md) · [Live artefact](https://safa-promax.vercel.app/) | Implementation repository is private. |
+| EarCodeX | [Sanitised case study](https://github.com/whitemorengwira/earcodex-case-study) · [Live artefact](https://earcodex.vercel.app/) | Product internals and operational workflows remain private. |
+| Socinga Africa | [Sanitised case study](https://github.com/whitemorengwira/socinga-africa-enterprise-case-study) · [Live artefact](https://www.socinga.africa/) | Production implementation and internal operations remain private. |
+| SAM Dossier | [Sanitised case study](https://github.com/whitemorengwira/sam-dossier-case-study) · [Live artefact](https://sam-dossier.vercel.app/) | Investor, document and platform internals remain private. |
 
 ## Technical Focus
 
-- Systems architecture and platform design
-- Full-stack web platforms using modern JavaScript and TypeScript patterns
-- AI automation and workflow orchestration
-- SaaS product interfaces, dashboards and operating tools
-- API-led workflows and integration planning
-- Cloud-first deployment and public-facing digital infrastructure
-- Analytics, search, documentation and digital evidence systems
+- Systems architecture and digital-platform design.
+- Full-stack web and SaaS delivery.
+- AI-assisted workflow architecture and automation.
+- Analytics, reporting and operational visibility.
+- API-led integration and cloud-first deployment.
+- Creative technology, multimedia systems and public-facing digital experience.
+- Governance-conscious delivery for regulated or sensitive environments.
 
-## Selected Public Evidence
+## What Public Evidence Shows
 
-| Area | Evidence |
-| --- | --- |
-| Systems architecture | Portfolio systems, selected case studies and live digital platforms |
-| AI workflows | AI automation, operating-layer design and workflow orchestration examples |
-| SaaS delivery | SaaS development pages, dashboards and platform interfaces |
-| Public writing | Technical leadership, AI workflows and systems architecture articles |
-| Digital infrastructure | Cloud-first deployment, static publishing and production-ready web delivery |
+Public portfolio material may show the business problem, my role, high-level architecture, approved visuals, live public experiences, non-sensitive verification and delivery judgement.
 
-## Review Path
+It does **not** publish:
 
-For a quick review, start with:
+- production or client source code;
+- credentials, environment-variable inventories or private endpoints;
+- database schemas, migrations or administrative logic;
+- authentication, authorisation or security-control implementation;
+- internal agent instructions, handover notes or operational documentation;
+- stakeholder, investor, student, client or user records;
+- confidential strategy, commercial records or proprietary workflow details.
 
-1. https://nwhite.systems/portfolio-review
-2. https://nwhite.systems/about-me
-3. https://nwhite.systems/my-portfolio
-4. https://nwhite.systems/ai-automation
-5. https://nwhite.systems/saas-development
+## Private Technical Review
 
-## Confidentiality
+Source-level proof can be provided through a controlled walkthrough, private repository access or an agreed confidentiality arrangement where permission allows. Public GitHub is reserved for deliberately sanitised portfolio material.
 
-This repository is a public portfolio index. It does not publish private credentials, client records, internal dashboards, commercial records, operational logs or confidential implementation material.
+## Publishing Standard
 
-## Usage
-
-This repository is public for portfolio review only. All rights are reserved unless explicitly stated otherwise.
-
-Public case studies and selected work avoid credentials, private dashboards, client records, internal implementation details, and commercially sensitive material while providing clear evidence of role, architecture, delivery, and technical judgement.
-
-For recruiter review or portfolio walkthroughs, start with https://nwhite.systems/portfolio-review, then explore linked case studies and source repositories. For enquiries, use [hello@nwhite.systems](mailto:hello@nwhite.systems?subject=Portfolio%20walkthrough%20request).
+Read the [Public Portfolio Disclosure Policy](PUBLIC_DISCLOSURE_POLICY.md) before publishing or linking any repository from the portfolio.
 
 ## Usage Rights
 
