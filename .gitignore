@@ -8,7 +8,9 @@ master-protocol-md/
 reports/
 codex-reports/
 .claude/
-docs/
+docs/*
+!docs/engineering-notes/
+!docs/engineering-notes/**
 
 # Logs and temporary files
 *.log

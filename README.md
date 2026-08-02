@@ -24,6 +24,10 @@ This repository is the sanitised public portfolio index for **Whitemore Ngwira �
 | Socinga Africa | [Sanitised case study](https://github.com/whitemorengwira/socinga-africa-enterprise-case-study) · [Live artefact](https://www.socinga.africa/) | Production implementation and internal operations remain private. |
 | SAM Dossier | [Sanitised case study](https://github.com/whitemorengwira/sam-dossier-case-study) · [Live artefact](https://sam-dossier.vercel.app/) | Investor, document and platform internals remain private. |
 
+## Repository-Only Engineering Notes
+
+Read the [N.White Systems engineering-notes collection](docs/engineering-notes/README.md) for three source-pinned technical studies covering repository publication hygiene, explicit service-worker caching and nullable operational measurements in TypeScript. These notes are maintained on GitHub rather than published on the N.White Systems website.
+
 ## Technical Focus
 
 - Systems architecture and digital-platform design.
