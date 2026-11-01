@@ -1,3 +1,7 @@
+![SAFA ProMax — N.White Systems](../docs/assets/case-studies/safa-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](../README.md)
+
 # SAFA ProMax — Sanitised Portfolio Case Study
 
 **Live protected artefact:** [https://safa-promax.vercel.app/](https://safa-promax.vercel.app/)  
